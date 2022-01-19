@@ -1,0 +1,9591 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head data-release=b0002035>
+    <title>Full text of &quot;Srimad Bhagavatam&quot;</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+        <meta name="google-site-verification" content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" />
+    <meta name="google-site-verification" content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" />
+
+    <script>
+/* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+</script>
+              <script>window.archive_setup=[]</script>
+        <script src="https://polyfill.archive.org/v3/polyfill.min.js?features=fetch%2CIntersectionObserver%2CResizeObserver%2CglobalThis%2CElement.prototype.getAttributeNames%2CString.prototype.startsWith"></script>
+    <meta charset="UTF-8">
+    <script src="//archive.org/includes/build/npm/jquery/dist/jquery.min.js?v1.12.4" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui-dist/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/bootstrap/dist/js/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@babel/polyfill/dist/polyfill.min.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=b0002035" type="text/javascript"></script>
+                      <meta property="mediatype" content="texts">
+                      <meta property="primary_collection" content="">
+            <script src="//archive.org/includes/analytics.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=b0002035" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=b0002035" type="text/javascript"></script>
+<link rel="canonical" href="https://archive.org/details/srimadbhagavatam015439mbp">
+    <link href="//archive.org/includes/build/css/archive.min.css?v=b0002035" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia ">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap"
+          >
+                    <div class="ia-banners">
+              <div
+        class="ia-banner hidden outage-2022-01-14"
+        data-campaign="outage-2022-01-14">
+        <p>Due to a planned power outage on Friday, 1/14, between 8am-1pm PST, some services may be impacted.</p>
+        <form class="banner-close" action="" method="get" data-action="ia-banner-close">
+          <fieldset>
+            <button aria-label="Close Banner" type="submit"></button>
+          </fieldset>
+        </form>
+      </div>
+          </div>
+                    <div id="topnav">
+                    <ia-topnav
+            baseHost="https://archive.org"
+            mediaBaseHost="https://archive.org"
+            username=""
+            userProfileLastModified=""
+            screenName=""
+                        searchQuery=""
+            config="eyJ1cGxvYWRVUkwiOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL2NyZWF0ZSIsImV2ZW50Q2F0ZWdvcnkiOiJUb3BOYXYiLCJ3YXliYWNrUGFnZXNBcmNoaXZlZCI6IjY0OSBiaWxsaW9uIn0="
+            menus="eyJhdWRpbyI6eyJoZWFkaW5nIjoiSW50ZXJuZXQgQXJjaGl2ZSBBdWRpbyIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvZXRyZWUiLCJ0aXRsZSI6IkxpdmUgTXVzaWMgQXJjaGl2ZSIsInVybCI6IlwvZGV0YWlsc1wvZXRyZWUifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2xpYnJpdm94YXVkaW8iLCJ0aXRsZSI6IkxpYnJpdm94IEZyZWUgQXVkaW8iLCJ1cmwiOiJcL2RldGFpbHNcL2xpYnJpdm94YXVkaW8ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIEF1ZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpbyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmF1ZGlvJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiR3JhdGVmdWwgRGVhZCIsInVybCI6IlwvZGV0YWlsc1wvR3JhdGVmdWxEZWFkIn0seyJ0aXRsZSI6Ik5ldGxhYmVscyIsInVybCI6IlwvZGV0YWlsc1wvbmV0bGFiZWxzIn0seyJ0aXRsZSI6Ik9sZCBUaW1lIFJhZGlvIiwidXJsIjoiXC9kZXRhaWxzXC9vbGR0aW1lcmFkaW8ifSx7InRpdGxlIjoiNzggUlBNcyBhbmQgQ3lsaW5kZXIgUmVjb3JkaW5ncyIsInVybCI6IlwvZGV0YWlsc1wvNzhycG0ifV0sImxpbmtzIjpbeyJ0aXRsZSI6IkF1ZGlvIEJvb2tzICYgUG9ldHJ5IiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19ib29rc3BvZXRyeSJ9LHsidGl0bGUiOiJDb21wdXRlcnMsIFRlY2hub2xvZ3kgYW5kIFNjaWVuY2UiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3RlY2gifSx7InRpdGxlIjoiTXVzaWMsIEFydHMgJiBDdWx0dXJlIiwidXJsIjoiXC9kZXRhaWxzXC9hdWRpb19tdXNpYyJ9LHsidGl0bGUiOiJOZXdzICYgUHVibGljIEFmZmFpcnMiLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX25ld3MifSx7InRpdGxlIjoiU3Bpcml0dWFsaXR5ICYgUmVsaWdpb24iLCJ1cmwiOiJcL2RldGFpbHNcL2F1ZGlvX3JlbGlnaW9uIn0seyJ0aXRsZSI6IlBvZGNhc3RzIiwidXJsIjoiXC9kZXRhaWxzXC9wb2RjYXN0cyJ9LHsidGl0bGUiOiJSYWRpbyBOZXdzIEFyY2hpdmUiLCJ1cmwiOiJcL2RldGFpbHNcL3JhZGlvIn1dfSwiaW1hZ2VzIjp7ImhlYWRpbmciOiJJbWFnZXMiLCJpY29uTGlua3MiOlt7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL21ldHJvcG9saXRhbm11c2V1bW9mYXJ0LWdhbGxlcnkiLCJ0aXRsZSI6Ik1ldHJvcG9saXRhbiBNdXNldW0iLCJ1cmwiOiJcL2RldGFpbHNcL21ldHJvcG9saXRhbm11c2V1bW9mYXJ0LWdhbGxlcnkifSx7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2NsZXZlbGFuZGFydCIsInRpdGxlIjoiQ2xldmVsYW5kIE11c2V1bSBvZiBBcnQiLCJ1cmwiOiJcL2RldGFpbHNcL2NsZXZlbGFuZGFydCJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgSW1hZ2VzIiwidXJsIjoiXC9kZXRhaWxzXC9pbWFnZSJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOmltYWdlJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiRmxpY2tyIENvbW1vbnMiLCJ1cmwiOiJcL2RldGFpbHNcL2ZsaWNrcmNvbW1vbnMifSx7InRpdGxlIjoiT2NjdXB5IFdhbGwgU3RyZWV0IEZsaWNrciIsInVybCI6IlwvZGV0YWlsc1wvZmxpY2tyLW93cyJ9LHsidGl0bGUiOiJDb3ZlciBBcnQiLCJ1cmwiOiJcL2RldGFpbHNcL2NvdmVyYXJ0YXJjaGl2ZSJ9LHsidGl0bGUiOiJVU0dTIE1hcHMiLCJ1cmwiOiJcL2RldGFpbHNcL21hcHNfdXNncyJ9XSwibGlua3MiOlt7InRpdGxlIjoiTkFTQSBJbWFnZXMiLCJ1cmwiOiJcL2RldGFpbHNcL25hc2EifSx7InRpdGxlIjoiU29sYXIgU3lzdGVtIENvbGxlY3Rpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NvbGFyc3lzdGVtY29sbGVjdGlvbiJ9LHsidGl0bGUiOiJBbWVzIFJlc2VhcmNoIENlbnRlciIsInVybCI6IlwvZGV0YWlsc1wvYW1lc3Jlc2VhcmNoY2VudGVyaW1hZ2VsaWJyYXJ5In1dfSwibW9yZSI6W3sidGl0bGUiOiJBYm91dCIsInVybCI6IlwvYWJvdXRcLyJ9LHsidGl0bGUiOiJCbG9nIiwidXJsIjoiaHR0cHM6XC9cL2Jsb2cuYXJjaGl2ZS5vcmcifSx7InRpdGxlIjoiUHJvamVjdHMiLCJ1cmwiOiJcL3Byb2plY3RzXC8ifSx7InRpdGxlIjoiSGVscCIsInVybCI6IlwvYWJvdXRcL2ZhcXMucGhwIn0seyJ0aXRsZSI6IkRvbmF0ZSIsInVybCI6IlwvZG9uYXRlP29yaWdpbj1pYXd3dy1Ub3BOYXZEb25hdGVCdXR0b24ifSx7InRpdGxlIjoiQ29udGFjdCIsInVybCI6IlwvYWJvdXRcL2NvbnRhY3QucGhwIn0seyJ0aXRsZSI6IkpvYnMiLCJ1cmwiOiJcL2Fib3V0XC9qb2JzLnBocCJ9LHsidGl0bGUiOiJWb2x1bnRlZXIiLCJ1cmwiOiJcL2Fib3V0XC92b2x1bnRlZXJwb3NpdGlvbnMucGhwIn0seyJ0aXRsZSI6IlBlb3BsZSIsInVybCI6IlwvYWJvdXRcL2Jpb3MucGhwIn1dLCJzb2Z0d2FyZSI6eyJoZWFkaW5nIjoiU29mdHdhcmUiLCJpY29uTGlua3MiOlt7Imljb24iOiJodHRwczpcL1wvYXJjaGl2ZS5vcmdcL3NlcnZpY2VzXC9pbWdcL2ludGVybmV0YXJjYWRlIiwidGl0bGUiOiJJbnRlcm5ldCBBcmNhZGUiLCJ1cmwiOiJcL2RldGFpbHNcL2ludGVybmV0YXJjYWRlIn0seyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC9jb25zb2xlbGl2aW5ncm9vbSIsInRpdGxlIjoiQ29uc29sZSBMaXZpbmcgUm9vbSIsInVybCI6IlwvZGV0YWlsc1wvY29uc29sZWxpdmluZ3Jvb20ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIFNvZnR3YXJlIiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZSJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOnNvZnR3YXJlJnNvcnQ9LXB1YmxpY2RhdGUifSx7InRpdGxlIjoiT2xkIFNjaG9vbCBFbXVsYXRpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3Rvc2VjIn0seyJ0aXRsZSI6Ik1TLURPUyBHYW1lcyIsInVybCI6IlwvZGV0YWlsc1wvc29mdHdhcmVsaWJyYXJ5X21zZG9zX2dhbWVzIn0seyJ0aXRsZSI6Ikhpc3RvcmljYWwgU29mdHdhcmUiLCJ1cmwiOiJcL2RldGFpbHNcL2hpc3RvcmljYWxzb2Z0d2FyZSJ9LHsidGl0bGUiOiJDbGFzc2ljIFBDIEdhbWVzIiwidXJsIjoiXC9kZXRhaWxzXC9jbGFzc2ljcGNnYW1lcyJ9LHsidGl0bGUiOiJTb2Z0d2FyZSBMaWJyYXJ5IiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnkifV0sImxpbmtzIjpbeyJ0aXRsZSI6IktvZGkgQXJjaGl2ZSBhbmQgU3VwcG9ydCBGaWxlIiwidXJsIjoiXC9kZXRhaWxzXC9rb2RpX2FyY2hpdmUifSx7InRpdGxlIjoiVmludGFnZSBTb2Z0d2FyZSIsInVybCI6IlwvZGV0YWlsc1wvdmludGFnZXNvZnR3YXJlIn0seyJ0aXRsZSI6IkFQSyIsInVybCI6IlwvZGV0YWlsc1wvYXBrYXJjaGl2ZSJ9LHsidGl0bGUiOiJNUy1ET1MiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlbGlicmFyeV9tc2RvcyJ9LHsidGl0bGUiOiJDRC1ST00gU29mdHdhcmUiLCJ1cmwiOiJcL2RldGFpbHNcL2NkLXJvbXMifSx7InRpdGxlIjoiQ0QtUk9NIFNvZnR3YXJlIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL2Nkcm9tc29mdHdhcmUifSx7InRpdGxlIjoiU29mdHdhcmUgU2l0ZXMiLCJ1cmwiOiJcL2RldGFpbHNcL3NvZnR3YXJlc2l0ZXMifSx7InRpdGxlIjoiVHVjb3dzIFNvZnR3YXJlIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL3R1Y293cyJ9LHsidGl0bGUiOiJTaGFyZXdhcmUgQ0QtUk9NcyIsInVybCI6IlwvZGV0YWlsc1wvY2RiYnNhcmNoaXZlIn0seyJ0aXRsZSI6IlNvZnR3YXJlIENhcHN1bGVzIENvbXBpbGF0aW9uIiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZWNhcHN1bGVzIn0seyJ0aXRsZSI6IkNELVJPTSBJbWFnZXMiLCJ1cmwiOiJcL2RldGFpbHNcL2Nkcm9taW1hZ2VzIn0seyJ0aXRsZSI6IlpYIFNwZWN0cnVtIiwidXJsIjoiXC9kZXRhaWxzXC9zb2Z0d2FyZWxpYnJhcnlfenhfc3BlY3RydW0ifSx7InRpdGxlIjoiRE9PTSBMZXZlbCBDRCIsInVybCI6IlwvZGV0YWlsc1wvZG9vbS1jZHMifV19LCJ0ZXh0cyI6eyJoZWFkaW5nIjoiQm9va3MiLCJpY29uTGlua3MiOlt7InRpdGxlIjoiQm9va3MgdG8gQm9ycm93IiwiaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvaW5saWJyYXJ5IiwidXJsIjoiXC9kZXRhaWxzXC9pbmxpYnJhcnkifSx7InRpdGxlIjoiT3BlbiBMaWJyYXJ5IiwiaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvaW1hZ2VzXC93aWRnZXRPTC5wbmciLCJ1cmwiOiJodHRwczpcL1wvb3BlbmxpYnJhcnkub3JnXC8ifV0sImZlYXR1cmVkTGlua3MiOlt7InRpdGxlIjoiQWxsIEJvb2tzIiwidXJsIjoiXC9kZXRhaWxzXC9ib29rcyJ9LHsidGl0bGUiOiJBbGwgVGV4dHMiLCJ1cmwiOiJcL2RldGFpbHNcL3RleHRzIn0seyJ0aXRsZSI6IlRoaXMgSnVzdCBJbiIsInVybCI6Ilwvc2VhcmNoLnBocD9xdWVyeT1tZWRpYXR5cGU6dGV4dHMmc29ydD0tcHVibGljZGF0ZSJ9LHsidGl0bGUiOiJTbWl0aHNvbmlhbiBMaWJyYXJpZXMiLCJ1cmwiOiJcL2RldGFpbHNcL3NtaXRoc29uaWFuIn0seyJ0aXRsZSI6IkZFRExJTksgKFVTKSIsInVybCI6IlwvZGV0YWlsc1wvZmVkbGluayJ9LHsidGl0bGUiOiJHZW5lYWxvZ3kiLCJ1cmwiOiJcL2RldGFpbHNcL2dlbmVhbG9neSJ9LHsidGl0bGUiOiJMaW5jb2xuIENvbGxlY3Rpb24iLCJ1cmwiOiJcL2RldGFpbHNcL2xpbmNvbG5jb2xsZWN0aW9uIn1dLCJsaW5rcyI6W3sidGl0bGUiOiJBbWVyaWNhbiBMaWJyYXJpZXMiLCJ1cmwiOiJcL2RldGFpbHNcL2FtZXJpY2FuYSJ9LHsidGl0bGUiOiJDYW5hZGlhbiBMaWJyYXJpZXMiLCJ1cmwiOiJcL2RldGFpbHNcL3Rvcm9udG8ifSx7InRpdGxlIjoiVW5pdmVyc2FsIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL3VuaXZlcnNhbGxpYnJhcnkifSx7InRpdGxlIjoiUHJvamVjdCBHdXRlbmJlcmciLCJ1cmwiOiJcL2RldGFpbHNcL2d1dGVuYmVyZyJ9LHsidGl0bGUiOiJDaGlsZHJlbidzIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL2lhY2wifSx7InRpdGxlIjoiQmlvZGl2ZXJzaXR5IEhlcml0YWdlIExpYnJhcnkiLCJ1cmwiOiJcL2RldGFpbHNcL2Jpb2RpdmVyc2l0eSJ9LHsidGl0bGUiOiJUcmFuc2FjdGlvbnMgb2YgdGhlIE1lZGljYWwgU29jaWV0eSBvZiBLaW5nJ3MgQ29sbGVnZSwgTG9uZG9uLiIsInVybCI6IlwvZGV0YWlsc1wvYjMxNTE1MDQ2In0seyJ0aXRsZSI6IkJvb2tzIGJ5IExhbmd1YWdlIiwidXJsIjoiXC9kZXRhaWxzXC9ib29rc2J5bGFuZ3VhZ2UifSx7InRpdGxlIjoiQWRkaXRpb25hbCBDb2xsZWN0aW9ucyIsInVybCI6IlwvZGV0YWlsc1wvYWRkaXRpb25hbF9jb2xsZWN0aW9ucyJ9XX0sIndlYiI6eyJtb2JpbGVBcHBzTGlua3MiOlt7InVybCI6Imh0dHBzOlwvXC9hcHBzLmFwcGxlLmNvbVwvdXNcL2FwcFwvd2F5YmFjay1tYWNoaW5lXC9pZDEyMDE4ODgzMTMiLCJ0aXRsZSI6IldheWJhY2sgTWFjaGluZSAoaU9TKSIsImV4dGVybmFsIjp0cnVlfSx7InVybCI6Imh0dHBzOlwvXC9wbGF5Lmdvb2dsZS5jb21cL3N0b3JlXC9hcHBzXC9kZXRhaWxzP2lkPWNvbS5hcmNoaXZlLndheWJhY2ttYWNoaW5lJmhsPWVuX1VTIiwidGl0bGUiOiJXYXliYWNrIE1hY2hpbmUgKEFuZHJvaWQpIiwiZXh0ZXJuYWwiOnRydWV9XSwiYnJvd3NlckV4dGVuc2lvbnNMaW5rcyI6W3sidXJsIjoiaHR0cHM6XC9cL2Nocm9tZS5nb29nbGUuY29tXC93ZWJzdG9yZVwvZGV0YWlsXC93YXliYWNrLW1hY2hpbmVcL2Zwbm1nZGthYmttbmFkY2pwZWhtbGxsa25kcGttaWFrIiwidGl0bGUiOiJDaHJvbWUiLCJleHRlcm5hbCI6dHJ1ZX0seyJ1cmwiOiJodHRwczpcL1wvYWRkb25zLm1vemlsbGEub3JnXC9lbi1VU1wvZmlyZWZveFwvYWRkb25cL3dheWJhY2stbWFjaGluZV9uZXdcLyIsInRpdGxlIjoiRmlyZWZveCIsImV4dGVybmFsIjp0cnVlfSx7InVybCI6Imh0dHBzOlwvXC9hcHBzLmFwcGxlLmNvbVwvdXNcL2FwcFwvd2F5YmFjay1tYWNoaW5lXC9pZDE0NzI0MzI0MjI/bXQ9MTIiLCJ0aXRsZSI6IlNhZmFyaSIsImV4dGVybmFsIjp0cnVlfV0sImFyY2hpdmVJdExpbmtzIjpbeyJ1cmwiOiJodHRwczpcL1wvd3d3LmFyY2hpdmUtaXQub3JnXC9leHBsb3JlIiwidGl0bGUiOiJFeHBsb3JlIHRoZSBDb2xsZWN0aW9ucyJ9LHsidXJsIjoiaHR0cHM6XC9cL3d3dy5hcmNoaXZlLWl0Lm9yZ1wvYmxvZ1wvbGVhcm4tbW9yZVwvIiwidGl0bGUiOiJMZWFybiBNb3JlIn0seyJ1cmwiOiJodHRwczpcL1wvd3d3LmFyY2hpdmUtaXQub3JnXC9jb250YWN0LXVzIiwidGl0bGUiOiJCdWlsZCBDb2xsZWN0aW9ucyJ9XX0sInZpZGVvIjp7ImhlYWRpbmciOiJWaWRlbyIsImljb25MaW5rcyI6W3siaWNvbiI6Imh0dHBzOlwvXC9hcmNoaXZlLm9yZ1wvc2VydmljZXNcL2ltZ1wvdHYiLCJ0aXRsZSI6IlRWIE5ld3MiLCJ1cmwiOiJcL2RldGFpbHNcL3R2In0seyJpY29uIjoiaHR0cHM6XC9cL2FyY2hpdmUub3JnXC9zZXJ2aWNlc1wvaW1nXC85MTEiLCJ0aXRsZSI6IlVuZGVyc3RhbmRpbmcgOVwvMTEiLCJ1cmwiOiJcL2RldGFpbHNcLzkxMSJ9XSwiZmVhdHVyZWRMaW5rcyI6W3sidGl0bGUiOiJBbGwgVmlkZW8iLCJ1cmwiOiJcL2RldGFpbHNcL21vdmllcyJ9LHsidGl0bGUiOiJUaGlzIEp1c3QgSW4iLCJ1cmwiOiJcL3NlYXJjaC5waHA/cXVlcnk9bWVkaWF0eXBlOm1vdmllcyZzb3J0PS1wdWJsaWNkYXRlIn0seyJ0aXRsZSI6IlByZWxpbmdlciBBcmNoaXZlcyIsInVybCI6IlwvZGV0YWlsc1wvcHJlbGluZ2VyIn0seyJ0aXRsZSI6IkRlbW9jcmFjeSBOb3chIiwidXJsIjoiXC9kZXRhaWxzXC9kZW1vY3JhY3lfbm93X3ZpZCJ9LHsidGl0bGUiOiJPY2N1cHkgV2FsbCBTdHJlZXQiLCJ1cmwiOiJcL2RldGFpbHNcL29jY3VweXdhbGxzdHJlZXQifSx7InRpdGxlIjoiVFYgTlNBIENsaXAgTGlicmFyeSIsInVybCI6IlwvZGV0YWlsc1wvbnNhIn1dLCJsaW5rcyI6W3sidGl0bGUiOiJBbmltYXRpb24gJiBDYXJ0b29ucyIsInVybCI6IlwvZGV0YWlsc1wvYW5pbWF0aW9uYW5kY2FydG9vbnMifSx7InRpdGxlIjoiQXJ0cyAmIE11c2ljIiwidXJsIjoiXC9kZXRhaWxzXC9hcnRzYW5kbXVzaWN2aWRlb3MifSx7InRpdGxlIjoiQ29tcHV0ZXJzICYgVGVjaG5vbG9neSIsInVybCI6IlwvZGV0YWlsc1wvY29tcHV0ZXJzYW5kdGVjaHZpZGVvcyJ9LHsidGl0bGUiOiJDdWx0dXJhbCAmIEFjYWRlbWljIEZpbG1zIiwidXJsIjoiXC9kZXRhaWxzXC9jdWx0dXJhbGFuZGFjYWRlbWljZmlsbXMifSx7InRpdGxlIjoiRXBoZW1lcmFsIEZpbG1zIiwidXJsIjoiXC9kZXRhaWxzXC9lcGhlbWVyYSJ9LHsidGl0bGUiOiJNb3ZpZXMiLCJ1cmwiOiJcL2RldGFpbHNcL21vdmllc2FuZGZpbG1zIn0seyJ0aXRsZSI6Ik5ld3MgJiBQdWJsaWMgQWZmYWlycyIsInVybCI6IlwvZGV0YWlsc1wvbmV3c2FuZHB1YmxpY2FmZmFpcnMifSx7InRpdGxlIjoiU3Bpcml0dWFsaXR5ICYgUmVsaWdpb24iLCJ1cmwiOiJcL2RldGFpbHNcL3NwaXJpdHVhbGl0eWFuZHJlbGlnaW9uIn0seyJ0aXRsZSI6IlNwb3J0cyBWaWRlb3MiLCJ1cmwiOiJcL2RldGFpbHNcL3Nwb3J0cyJ9LHsidGl0bGUiOiJUZWxldmlzaW9uIiwidXJsIjoiXC9kZXRhaWxzXC90ZWxldmlzaW9uIn0seyJ0aXRsZSI6IlZpZGVvZ2FtZSBWaWRlb3MiLCJ1cmwiOiJcL2RldGFpbHNcL2dhbWV2aWRlb3MifSx7InRpdGxlIjoiVmxvZ3MiLCJ1cmwiOiJcL2RldGFpbHNcL3Zsb2dzIn0seyJ0aXRsZSI6IllvdXRoIE1lZGlhIiwidXJsIjoiXC9kZXRhaWxzXC95b3V0aF9tZWRpYSJ9XX0sInVzZXIiOltdLCJzaWduZWRPdXQiOlt7InVybCI6IlwvYWNjb3VudFwvc2lnbnVwIiwidGl0bGUiOiJTaWduIHVwIGZvciBmcmVlIiwiYW5hbHl0aWNzRXZlbnQiOiJBdmF0YXJNZW51LVNpZ251cCJ9LHsidXJsIjoiXC9hY2NvdW50XC9sb2dpbiIsInRpdGxlIjoiTG9nIGluIiwiYW5hbHl0aWNzRXZlbnQiOiJBdmF0YXJNZW51LUxvZ2luIn1dfQ==">
+                                      <noscript class='static-content'>      <style scope="icon-hamburger-1">.icon-hamburger-1 svg.icon-hamburger {
+        display: block;
+      }
+
+      .icon-hamburger-1 .fill-color.icon-hamburger {
+        fill: #fff;
+      }</style><!-- Shady DOM styles for login-button --><style scope="login-button-1">.login-button-1 .dropdown-toggle.login-button {
+        display: block;
+          height: 4rem;
+          font-size: 1.6rem;
+          text-transform: uppercase;
+          text-decoration: none;
+          color: #ccc;
+          cursor: pointer;
+      }
+
+      .login-button-1 .dropdown-toggle.login-button .fill-color.login-button {
+        fill: #999;
+      }
+
+      .login-button-1 .dropdown-toggle.login-button:active .fill-color.login-button,.login-button-1 .dropdown-toggle.login-button:focus .fill-color.login-button,.login-button-1 .dropdown-toggle.login-button:hover .fill-color.login-button {
+        fill: #fff;
+      }
+
+      .login-button-1 .active.login-button {
+        border-radius: 1rem 1rem 0 0;
+          background: #333;
+      }
+
+      .login-button-1 .active.login-button .fill-color.login-button {
+        fill: #fff;
+      }
+
+      .login-button-1 span.login-button {
+        display: none;
+          font-size: 1.4rem;
+          text-transform: uppercase;
+          color: #999;
+      }
+
+      .login-button-1 span.login-button a.login-button {
+        color: inherit;
+          text-decoration: none;
+      }
+
+      .login-button-1 a.login-button:hover,.login-button-1 a.login-button:active,.login-button-1 a.login-button:focus {
+        color: #fff;
+      }
+
+      @media (min-width: 890px) {
+      .login-button-1 .logged-out-toolbar.login-button {
+        transform: translateY(-.5rem);
+      }
+
+      .login-button-1 .active.login-button {
+        background: transparent;
+      }
+
+      .login-button-1 .dropdown-toggle.login-button {
+        display: inline-block;
+            vertical-align: middle;
+      }
+
+      .login-button-1 span.login-button {
+        display: inline;
+            vertical-align: middle;
+      }
+
+      }</style><!-- Shady DOM styles for nav-search --><style scope="nav-search-1">.nav-search-1 input.nav-search:focus {
+        outline: none;
+      }
+
+      .nav-search-1 button.nav-search {
+        background: none;
+          color: inherit;
+          border: none;
+          font: inherit;
+          cursor: pointer;
+      }
+
+      .nav-search-1 button.nav-search:focus {
+        outline: none;
+      }
+
+      .nav-search-1 .search.nav-search {
+        padding-top: 0;
+          margin-right: .5rem;
+      }
+
+      .nav-search-1 .search.nav-search svg.nav-search {
+        position: relative;
+          top: -5px;
+          right: -3px;
+          fill:;
+      }
+
+      .nav-search-1 .search-activated.nav-search {
+        display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          position: absolute;
+          top: 0;
+          right: 5rem;
+          bottom: 0;
+          left: 5rem;
+          z-index: 3;
+          padding: 0.5rem 0.2rem;
+          border-radius: 1rem 1rem 0 0;
+          background: #333;
+      }
+
+      .nav-search-1 .search-inactive.nav-search {
+        display: none;
+      }
+
+      .nav-search-1 .search-activated.nav-search .highlight.nav-search,.nav-search-1 .search-activated.nav-search .search.nav-search {
+        background: #fff;
+          border-radius: 0.5rem;
+      }
+
+      .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+        display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          width: 100%;
+          margin: 0 .5rem;
+      }
+
+      .nav-search-1 .search-activated.nav-search .search.nav-search {
+        height: 100%;
+          padding: 0;
+          margin-right: 0;
+          -ms-flex-item-align: center;
+          -ms-grid-row-align: center;
+          align-self: center;
+      }
+
+      .nav-search-1 .search-activated.nav-search .search-field.nav-search {
+        width: 100%;
+          height: 100%;
+          box-sizing: border-box;
+          padding-left: 1rem;
+          border-radius: 0.5rem;
+          border: none;
+          font-size: 1.6rem;
+          text-align: center;
+      }
+
+      .nav-search-1 .search-activated.nav-search .search-field.nav-search:focus {
+        outline: none;
+      }
+
+      @keyframes fade-in-nav-search-1 {
+      0% {
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 1;
+      }
+
+      }
+
+      .nav-search-1 .fade-in.nav-search {
+        animation: fade-in-nav-search-1 .2s forwards;
+      }
+
+      @media (min-width: 890px) {
+      .nav-search-1 .search.nav-search svg.nav-search {
+        display: inline;
+            width: 28px;
+            height: 28px;
+            vertical-align: -14px;
+      }
+
+      .nav-search-1 .search.nav-search path.nav-search {
+        fill: #333;
+      }
+
+      .nav-search-1 .search-inactive.nav-search,.nav-search-1 .search-activated.nav-search {
+        display: block;
+            position: static;
+            padding: 1.2rem .2rem;
+            background: transparent;
+      }
+
+      .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+        width: 13rem;
+            height: 2.8rem;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: reverse;
+            -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+      }
+
+      .nav-search-1 .search-activated.nav-search .search-field.nav-search {
+        width: calc(100% - 28px);
+            height: 100%;
+            padding-left: 0;
+            font-size: 1.4rem;
+            text-align: left;
+      }
+
+      .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
+        width: 28px;
+            height: 28px;
+      }
+
+      }</style><!-- Shady DOM styles for media-button --><style scope="media-button-1">.media-button-1 a.media-button {
+        display: inline-block;
+          text-decoration: none;
+      }
+
+      .media-button-1 .menu-item.media-button {
+        display: inline-flex;
+          width: 100%;
+          padding: 0;
+          font-size: 1.6rem;
+          text-align: left;
+          background: transparent;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+      }
+
+      .media-button-1 .menu-item.media-button:focus {
+        outline: none;
+      }
+
+      .media-button-1 .label.media-button {
+        display: inline-block;
+          padding: 0;
+          font-weight: 400;
+          color: #fff;
+          text-align: left;
+          vertical-align: middle;
+      }
+
+      .media-button-1 .menu-item.media-button > .icon.media-button {
+        display: inline-flex;
+          width: 42px;
+          height: 42px;
+          vertical-align: middle;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+      }
+
+      .media-button-1 .menu-item.selected.media-button .icon.media-button {
+        background-color: #333;
+          border-radius: 1rem 0 0 1rem;
+      }
+
+      .media-button-1 .icon.media-button .fill-color.media-button {
+        fill: #999;
+      }
+
+      .media-button-1 .icon.active.media-button .fill-color.media-button {
+        fill: #fff;
+      }
+
+      .media-button-1 .donate.media-button .fill-color.media-button {
+        fill: #f00;
+      }
+
+      @media (min-width: 890px) {
+      .media-button-1 .menu-item.media-button {
+        width: auto;
+            height: 5rem;
+            color: #999;
+      }
+
+      .media-button-1 .menu-item.media-button:hover,.media-button-1 .menu-item.media-button:active,.media-button-1 .menu-item.media-button:focus {
+        color: #fff;
+      }
+
+      .media-button-1 .menu-item.media-button:hover .fill-color.media-button,.media-button-1 .menu-item.media-button:active .fill-color.media-button,.media-button-1 .menu-item.media-button:focus .fill-color.media-button {
+        fill: #fff;
+      }
+
+      .media-button-1 .label.media-button {
+        display: none;
+      }
+
+      .media-button-1 .label.media-button,.media-button-1 .web.media-button:after {
+        padding-right: 1rem;
+            font-size: 1.3rem;
+            text-transform: uppercase;
+            color: inherit;
+      }
+
+      .media-button-1 .web.media-button:after {
+        display: none;
+            content: "web";
+      }
+
+      .media-button-1 .donate.media-button,.media-button-1 .more.media-button {
+        display: none;
+      }
+
+      .media-button-1 .menu-item.selected.media-button {
+        background: #474747;
+      }
+
+      .media-button-1 .menu-item.selected.media-button .label.media-button,.media-button-1 .menu-item.selected.web.media-button:after {
+        color: #fff;
+      }
+
+      .media-button-1 .menu-item.selected.media-button .icon.media-button {
+        background: transparent;
+      }
+
+      .media-button-1 .web.selected.media-button .fill-color.media-button {
+        fill: #ffcd27;
+      }
+
+      .media-button-1 .texts.selected.media-button .fill-color.media-button {
+        fill: #faab3c;
+      }
+
+      .media-button-1 .video.selected.media-button .fill-color.media-button {
+        fill: #f1644b;
+      }
+
+      .media-button-1 .audio.selected.media-button .fill-color.media-button {
+        fill: #00adef;
+      }
+
+      .media-button-1 .software.selected.media-button .fill-color.media-button {
+        fill: #9ecc4f;
+      }
+
+      .media-button-1 .images.selected.media-button .fill-color.media-button {
+        fill: #aa99c9;
+      }
+
+      }
+
+      @media (min-width: 1300px) {
+      .media-button-1 .label.media-button,.media-button-1 .web.media-button:after {
+        display: inline;
+      }
+
+      .media-button-1 .web.media-button .label.media-button {
+        display: none;
+      }
+
+      }</style><!-- Shady DOM styles for media-menu --><style scope="media-menu-1">.media-menu-1 {
+        outline: none;
+      }
+
+      .media-menu-1 .media-menu.media-menu {
+        position: absolute;
+          z-index: -1;
+          top: -100vh;
+          width: 100%;
+          background-color: #222;
+          margin: 0;
+          overflow: hidden;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.media-menu {
+        transition-property: top;
+          transition-duration: 0.2s;
+          transition-timing-function: ease;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.open.media-menu {
+        top: 100%;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.closed.media-menu {
+        top: -100vh;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.closed.media-menu {
+        transition-duration: 0.2s;
+      }
+
+      .media-menu-1 .menu-group.media-menu {
+        position: relative;
+          line-height: normal;
+      }
+
+      @media (min-width: 890px) {
+      .media-menu-1 .media-menu.media-menu {
+        display: inline-block;
+            position: static;
+            width: auto;
+            height: 5rem;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.media-menu {
+        transition-property: none;
+      }
+
+      .media-menu-1 .media-menu.tx-slide.open.media-menu,.media-menu-1 .media-menu.tx-slide.closed.media-menu {
+        top: 0;
+      }
+
+      .media-menu-1 .menu-group.media-menu {
+        font-size: 0;
+      }
+
+      }</style><!-- Shady DOM styles for primary-nav --><style scope="primary-nav-1">.primary-nav-1 button.primary-nav:focus,.primary-nav-1 a.primary-nav:focus,.primary-nav-1 input.primary-nav:focus {
+        outline: none;
+      }
+
+      .primary-nav-1 nav.primary-nav {
+        position: relative;
+          display: -ms-grid;
+          display: grid;
+          height: 4rem;
+          grid-template-areas: "hamburger empty search user";
+          -ms-grid-columns: 4rem minmax(1rem, 100%) 4.3rem 5rem;
+          grid-template-columns: 4rem auto 4.3rem 5rem;
+          -ms-grid-rows: 100%;
+          grid-template-rows: 100%;
+          background: #222;
+          border-bottom: 1px solid #333;
+      }
+
+      .primary-nav-1 button.primary-nav {
+        background: none;
+          color: inherit;
+          border: none;
+          font: inherit;
+          cursor: pointer;
+      }
+
+      .primary-nav-1 .link-home.primary-nav {
+        position: absolute;
+          top: 50%;
+          left: 50%;
+          z-index: 2;
+          text-decoration: none;
+          -webkit-transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+      }
+
+      .primary-nav-1 media-menu.primary-nav {
+        grid-column-start: hamburger-start;
+          grid-column-end: user-end;
+      }
+
+      .primary-nav-1 .ia-logo.primary-nav {
+        display: block;
+      }
+
+      .primary-nav-1 .ia-wordmark.primary-nav {
+        display: none;
+      }
+
+      .primary-nav-1 .hamburger.primary-nav {
+        -ms-grid-row: 1;
+          -ms-grid-column: 1;
+          grid-area: hamburger;
+          padding: 0;
+      }
+
+      .primary-nav-1 .search-trigger.primary-nav {
+        -ms-grid-row: 1;
+          -ms-grid-column: 3;
+          grid-area: search;
+          position: relative;
+          padding: 0;
+          z-index: 1;
+          width: 100%;
+          text-align: right;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+      }
+
+      .primary-nav-1 .search-trigger.primary-nav .fill-color.primary-nav {
+        fill: #999;
+      }
+
+      .primary-nav-1 .search-activated.primary-nav {
+        position: relative;
+          z-index: 3;
+      }
+
+      .primary-nav-1 .upload.primary-nav {
+        display: none;
+      }
+
+      .primary-nav-1 .upload.primary-nav span.primary-nav {
+        display: none;
+      }
+
+      .primary-nav-1 .user-info.primary-nav {
+        -ms-grid-row: 1;
+          -ms-grid-column: 4;
+          grid-area: user;
+          -ms-grid-row-align: stretch;
+          align-self: stretch;
+          -ms-grid-column-align: end;
+          justify-self: end;
+      }
+
+      .primary-nav-1 .username.primary-nav {
+        display: none;
+          font-size: 1.3rem;
+          vertical-align: middle;
+          text-transform: uppercase;
+      }
+
+      .primary-nav-1 .user-menu.primary-nav {
+        height: 100%;
+          padding: .5rem 1rem;
+          color: #999;
+      }
+
+      .primary-nav-1 .user-menu.primary-nav:hover {
+        color: #fff;
+      }
+
+      .primary-nav-1 .user-menu.active.primary-nav {
+        border-radius: 1rem 1rem 0 0;
+          background: #333;
+      }
+
+      .primary-nav-1 .user-menu.primary-nav img.primary-nav {
+        display: block;
+          width: 30px;
+          height: 30px;
+      }
+
+      @media (min-width: 890px) {
+      .primary-nav-1 {
+        ;
+      }
+
+      .primary-nav-1 nav.primary-nav {
+        display: block;
+            z-index: 2;
+            height: 5rem;
+            padding-right: 1.5rem;
+      }
+
+      .primary-nav-1 .link-home.primary-nav {
+        position: static;
+            float: left;
+            margin-top: 1rem;
+            padding: 0 10px 0 13px;
+            -webkit-transform: translate(0, 0);
+            -ms-transform: translate(0, 0);
+            transform: translate(0, 0);
+      }
+
+      .primary-nav-1 .ia-logo.primary-nav,.primary-nav-1 .ia-wordmark.primary-nav {
+        display: inline-block;
+            vertical-align: middle;
+      }
+
+      .primary-nav-1 .ia-wordmark.primary-nav {
+        margin-left: 1rem;
+      }
+
+      .primary-nav-1 .hamburger.primary-nav,.primary-nav-1 .search-trigger.primary-nav {
+        display: none;
+      }
+
+      .primary-nav-1 .user-info.primary-nav {
+        float: right;
+            padding-top: 1rem;
+      }
+
+      .primary-nav-1 .user-menu.primary-nav {
+        padding-top: 0;
+      }
+
+      .primary-nav-1 .user-menu.active.primary-nav {
+        background: transparent;
+      }
+
+      .primary-nav-1 .user-menu.primary-nav img.primary-nav {
+        display: inline-block;
+            vertical-align: middle;
+      }
+
+      .primary-nav-1 .upload.primary-nav {
+        display: block;
+            float: right;
+            margin-top: 1rem;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: #999;
+      }
+
+      .primary-nav-1 .upload.primary-nav:active,.primary-nav-1 .upload.primary-nav:focus,.primary-nav-1 .upload.primary-nav:hover {
+        color: #fff;
+      }
+
+      .primary-nav-1 .upload.primary-nav svg.primary-nav {
+        width: 32px;
+            height: 32px;
+            vertical-align: middle;
+            fill: #999;
+      }
+
+      .primary-nav-1 .upload.primary-nav:hover svg.primary-nav,.primary-nav-1 .upload.primary-nav:focus svg.primary-nav,.primary-nav-1 .upload.primary-nav:active svg.primary-nav {
+        fill: #fff;
+      }
+
+      .primary-nav-1 nav-search.primary-nav {
+        float: right;
+            margin-left: 1rem;
+      }
+
+      .primary-nav-1 login-button.primary-nav {
+        display: block;
+            margin-right: 1rem;
+      }
+
+      }
+
+      @media (min-width: 990px) {
+      .primary-nav-1 .username.primary-nav {
+        display: inline-block;
+      }
+
+      .primary-nav-1 .upload.primary-nav span.primary-nav {
+        display: inline;
+      }
+
+      }</style><!-- Shady DOM styles for user-menu --><!-- Shady DOM styles for search-menu --><style scope="search-menu-1">.search-menu-1 {
+        ;
+      }
+
+      .search-menu-1 button.search-menu:focus,.search-menu-1 input.search-menu:focus {
+        outline-color: #428bca;
+          outline-width: 0.16rem;
+          outline-style: auto;
+      }
+
+      .search-menu-1 .search-menu.search-menu {
+        position: absolute;
+          top: -800px;
+          right: 0;
+          left: 0;
+          z-index: 1;
+          padding: 0 4.5rem;
+          font-size: 1.6rem;
+          background-color: #333;
+      }
+
+      .search-menu-1 .tx-slide.search-menu {
+        overflow: hidden;
+          transition-property: top;
+          transition-duration: 0.2s;
+          transition-timing-function: ease;
+      }
+
+      .search-menu-1 .initial.search-menu,.search-menu-1 .closed.search-menu {
+        top: -800px;
+      }
+
+      .search-menu-1 .closed.search-menu {
+        transition-duration: 0.2s;
+      }
+
+      .search-menu-1 .open.search-menu {
+        top: 4rem;
+      }
+
+      .search-menu-1 label.search-menu,.search-menu-1 a.search-menu {
+        padding: 1rem;
+          display: block;
+      }
+
+      .search-menu-1 .advanced-search.search-menu {
+        text-decoration: none;
+          color: #428bca;
+      }
+
+      @media (min-width: 890px) {
+      .search-menu-1 .search-menu.search-menu {
+        overflow: visible;
+            top: -400px;
+            right: 2rem;
+            left: auto;
+            z-index: 5;
+            padding: 1rem 2rem;
+            transition: opacity .2s ease-in-out;
+            font-size: 1.4rem;
+            color: #333;
+            border-radius: 2px;
+            background: #fff;
+            box-shadow: 0 1px 2px 1px rgba(0, 0, 0, .15);
+      }
+
+      .search-menu-1 .search-menu.search-menu:after {
+        position: absolute;
+            right: 7px;
+            top: -7px;
+            width: 12px;
+            height: 7px;
+            box-sizing: border-box;
+            color: #fff;
+            content: "";
+            border-bottom: 7px solid currentColor;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+      }
+
+      .search-menu-1 .initial.search-menu,.search-menu-1 .closed.search-menu {
+        opacity: 0;
+            transition-duration: .2s;
+      }
+
+      .search-menu-1 .open.search-menu {
+        top: 5.1rem;
+            opacity: 1;
+      }
+
+      .search-menu-1 label.search-menu {
+        padding: 0;
+      }
+
+      .search-menu-1 label.search-menu + label.search-menu {
+        padding-top: 7px;
+      }
+
+      .search-menu-1 a.search-menu {
+        padding: 1rem 0 0 0;
+      }
+
+      }</style><!-- Shady DOM styles for wayback-search --><!-- Shady DOM styles for more-slider --><!-- Shady DOM styles for media-subnav --><style scope="media-subnav-1">.media-subnav-1 a.media-subnav {
+        text-decoration: none;
+          color: #fff;
+      }
+
+      .media-subnav-1 img.media-subnav {
+        display: block;
+          width: 90px;
+          height: 90px;
+          margin: 0 auto 1rem auto;
+          border-radius: 45px;
+      }
+
+      .media-subnav-1 h3.media-subnav {
+        margin-top: 0;
+          font-size: 1.8rem;
+      }
+
+      .media-subnav-1 h4.media-subnav {
+        font-size: 1.6rem;
+      }
+
+      .media-subnav-1 ul.media-subnav {
+        padding: 0;
+          margin: 0;
+          list-style: none;
+      }
+
+      .media-subnav-1 li.media-subnav + li.media-subnav {
+        padding-top: 1.5rem;
+      }
+
+      .media-subnav-1 .icon-links.media-subnav {
+        display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: space-evenly;
+          -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+          text-align: center;
+      }
+
+      .media-subnav-1 .icon-links.media-subnav a.media-subnav {
+        display: inline-block;
+          width: 120px;
+          margin-bottom: 1.5rem;
+          overflow: hidden;
+          white-space: nowrap;
+          text-align: center;
+          text-overflow: ellipsis;
+      }
+
+      .media-subnav-1 .icon-links.media-subnav a.media-subnav + a.media-subnav {
+        margin-left: 2rem;
+      }
+
+      .media-subnav-1 .featured.media-subnav h4.media-subnav {
+        display: none;
+      }
+
+      @media (min-width: 890px) {
+      .media-subnav-1 {
+        display: -ms-grid;
+            display: grid;
+            -ms-grid-columns: 40% 20% 40%;
+            grid-template-columns: 40% 20% 40%;
+      }
+
+      .media-subnav-1 .wayback-search.media-subnav {
+        -ms-grid-column: 1;
+            -ms-grid-column-span: 3;
+            grid-column: 1 / 4;
+      }
+
+      .media-subnav-1 h3.media-subnav {
+        display: none;
+      }
+
+      .media-subnav-1 h4.media-subnav {
+        margin: 0 0 1rem 0;
+            font-weight: 100;
+      }
+
+      .media-subnav-1 ul.media-subnav {
+        font-size: 1.3rem;
+      }
+
+      .media-subnav-1 li.media-subnav {
+        padding-bottom: .5rem;
+      }
+
+      .media-subnav-1 li.media-subnav + li.media-subnav {
+        padding-top: 0;
+      }
+
+      .media-subnav-1 li.media-subnav a.media-subnav {
+        display: block;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+      }
+
+      .media-subnav-1 .icon-links.media-subnav {
+        -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .icon-links.media-subnav a.media-subnav {
+        padding-top: 3.5rem;
+            max-width: 160px;
+      }
+
+      .media-subnav-1 .links.media-subnav {
+        padding: 0 1.5rem;
+      }
+
+      .media-subnav-1 .featured.media-subnav {
+        -ms-grid-column: 2;
+      }
+
+      .media-subnav-1 .featured.media-subnav h4.media-subnav {
+        display: block;
+      }
+
+      .media-subnav-1 .top.media-subnav {
+        -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav {
+        display: -ms-grid;
+            display: grid;
+            -ms-grid-columns: 50% 3rem 50%;
+            grid-template-columns: 50% 50%;
+            -ms-grid-rows: (auto)[7];
+            grid-template-rows: repeat(7, auto);
+            grid-column-gap: 3rem;
+            grid-auto-flow: column;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(1) {
+        -ms-grid-row: 1;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(2) {
+        -ms-grid-row: 2;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(3) {
+        -ms-grid-row: 3;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(4) {
+        -ms-grid-row: 4;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(5) {
+        -ms-grid-row: 5;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(6) {
+        -ms-grid-row: 6;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(7) {
+        -ms-grid-row: 7;
+            -ms-grid-column: 1;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(8) {
+        -ms-grid-row: 1;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(9) {
+        -ms-grid-row: 2;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(10) {
+        -ms-grid-row: 3;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(11) {
+        -ms-grid-row: 4;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(12) {
+        -ms-grid-row: 5;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(13) {
+        -ms-grid-row: 6;
+            -ms-grid-column: 3;
+      }
+
+      .media-subnav-1 .top.media-subnav ul.media-subnav > *.media-subnav:nth-child(14) {
+        -ms-grid-row: 7;
+            -ms-grid-column: 3;
+      }
+
+      }</style><!-- Shady DOM styles for media-slider --><style scope="media-slider-1">.media-slider-1 .overflow-clip.media-slider {
+        display: none;
+          position: absolute;
+          top: 4rem;
+          right: 0;
+          left: 4rem;
+          height: 368px;
+          overflow-x: hidden;
+      }
+
+      .media-slider-1 .information-menu.media-slider {
+        position: absolute;
+          top: 0;
+          right: 0;
+          left: 0;
+          padding: 0;
+          height: 368px;
+          overflow-x: hidden;
+          font-size: 1.4rem;
+          background: #333;
+      }
+
+      .media-slider-1 .open.media-slider {
+        display: block;
+      }
+
+      .media-slider-1 .info-box.media-slider {
+        padding: 1rem;
+      }
+
+      @media (min-width: 890px) {
+      .media-slider-1 .overflow-clip.media-slider {
+        display: block;
+            top: 0;
+            left: 0;
+            height: auto;
+            overflow-x: visible;
+            transform: translate(0, -100%);
+            transition: transform .2s ease;
+      }
+
+      .media-slider-1 .information-menu.media-slider {
+        left: 0;
+            z-index: 1;
+            height: auto;
+            min-height: 21rem;
+            background: #474747;
+            transform: translate(0, -100%);
+            transition: transform .2s ease;
+      }
+
+      .media-slider-1 .overflow-clip.open.media-slider {
+        transform: translate(0, 8rem);
+      }
+
+      .media-slider-1 .information-menu.open.media-slider {
+        transform: translate(0, 0);
+      }
+
+      .media-slider-1 .info-box.media-slider {
+        max-width: 1000px;
+            padding: 1.5rem 0;
+            margin: 0 auto;
+      }
+
+      }</style><!-- Shady DOM styles for desktop-subnav --><style scope="desktop-subnav-1">.desktop-subnav-1 ul.desktop-subnav {
+        position: relative;
+          z-index: 3;
+          padding: .8rem 0;
+          margin: 0;
+          font-size: 1.2rem;
+          text-transform: uppercase;
+          text-align: center;
+          background: #333;
+      }
+
+      .desktop-subnav-1 li.desktop-subnav {
+        display: inline-block;
+          padding: 0 15px;
+      }
+
+      .desktop-subnav-1 a.desktop-subnav {
+        text-decoration: none;
+          color: #aaa;
+      }
+
+      .desktop-subnav-1 a.desktop-subnav:hover,.desktop-subnav-1 a.desktop-subnav:active,.desktop-subnav-1 a.desktop-subnav:focus {
+        color: #fff;
+      }
+
+      .desktop-subnav-1 .donate.desktop-subnav svg.desktop-subnav {
+        width: 16px;
+          height: 16px;
+          vertical-align: -4px;
+          fill: #f00;
+      }</style><!-- Shady DOM styles for signed-out-dropdown --><style scope="signed-out-dropdown-1">.signed-out-dropdown-1 {
+        ;
+      }
+
+      .signed-out-dropdown-1 nav.signed-out-dropdown {
+        position: absolute;
+          top: -1500px;
+          right: 0;
+          z-index: 1;
+          overflow: hidden;
+          font-size: 1.6rem;
+          background-color: #333;
+          transition-property: top;
+          transition-duration: 0.2s;
+          transition-timing-function: ease;
+      }
+
+      .signed-out-dropdown-1 .initial.signed-out-dropdown,.signed-out-dropdown-1 .closed.signed-out-dropdown {
+        top: -1500px;
+      }
+
+      .signed-out-dropdown-1 .closed.signed-out-dropdown {
+        transition-duration: 0.5s;
+      }
+
+      .signed-out-dropdown-1 .open.signed-out-dropdown {
+        top: 4rem;
+          max-width: 100vw;
+          overflow: auto;
+      }
+
+      .signed-out-dropdown-1 h3.signed-out-dropdown {
+        padding: 0.6rem 2rem;
+          margin: 0;
+          font-size: inherit;
+          overflow: hidden;
+          text-overflow: ellipsis;
+      }
+
+      .signed-out-dropdown-1 ul.signed-out-dropdown {
+        padding: 0.4rem 0 0.7rem 0;
+          margin: 0;
+          list-style: none;
+          
+          max-height: calc(100vh - 7.2rem + 1px);
+          overflow: auto;
+          box-sizing: border-box;
+      }
+
+      .signed-out-dropdown-1 .divider.signed-out-dropdown {
+        margin: .5rem 0;
+          border-bottom: 1px solid #666;
+      }
+
+      .signed-out-dropdown-1 a.signed-out-dropdown,.signed-out-dropdown-1 .info-item.signed-out-dropdown {
+        display: block;
+          color: #fff;
+          text-decoration: none;
+          padding: 1rem 2rem;
+      }
+
+      .signed-out-dropdown-1 .info-item.signed-out-dropdown {
+        font-size: .8em;
+          color: #999;
+      }
+
+      @media (min-width: 890px) {
+      .signed-out-dropdown-1 nav.signed-out-dropdown {
+        overflow: visible;
+            top: calc(100% + 7px);
+            left: auto;
+            z-index: 5;
+            transition: opacity .2s ease-in-out;
+            font-size: 1.4rem;
+            border-radius: 2px;
+            background: #fff;
+            box-shadow: 0 1px 2px 1px rgba(0, 0, 0, .15);
+      }
+
+      .signed-out-dropdown-1 nav.signed-out-dropdown:after {
+        position: absolute;
+            right: 7px;
+            top: -7px;
+            width: 12px;
+            height: 7px;
+            box-sizing: border-box;
+            color: #fff;
+            content: "";
+            border-bottom: 7px solid currentColor;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+      }
+
+      .signed-out-dropdown-1 h3.signed-out-dropdown {
+        display: none;
+      }
+
+      .signed-out-dropdown-1 ul.signed-out-dropdown {
+        max-height: calc(100vh - 8.5rem + 1px);
+      }
+
+      .signed-out-dropdown-1 .divider.signed-out-dropdown {
+        border-bottom-color: #666;
+      }
+
+      .signed-out-dropdown-1 a.signed-out-dropdown {
+        padding: .5rem 2rem;
+            color: #333;
+            transition: background .1s ease-out, color .1s ease-out;
+      }
+
+      .signed-out-dropdown-1 .info-item.signed-out-dropdown {
+        padding: .5rem 2rem;
+            font-size: .8em;
+      }
+
+      .signed-out-dropdown-1 a.signed-out-dropdown:hover,.signed-out-dropdown-1 a.signed-out-dropdown:active,.signed-out-dropdown-1 a.signed-out-dropdown:focus {
+        color: #fff;
+            background: #428bca;
+      }
+
+      .signed-out-dropdown-1 .initial.signed-out-dropdown,.signed-out-dropdown-1 .closed.signed-out-dropdown {
+        opacity: 0;
+            transition-duration: .2s;
+      }
+
+      .signed-out-dropdown-1 .open.signed-out-dropdown {
+        top: 5.1rem;
+            opacity: 1;
+            overflow: visible;
+      }
+
+      }
+
+      @media (min-width: 890px) {
+      .signed-out-dropdown-1 .initial.signed-out-dropdown,.signed-out-dropdown-1 .closed.signed-out-dropdown,.signed-out-dropdown-1 .open.signed-out-dropdown {
+        right: 33.7rem;
+      }
+
+      .signed-out-dropdown-1 .search-hidden.initial.signed-out-dropdown,.signed-out-dropdown-1 .search-hidden.closed.signed-out-dropdown,.signed-out-dropdown-1 .search-hidden.open.signed-out-dropdown {
+        right: 18.3rem;
+      }
+
+      }
+
+      @media (min-width: 990px) {
+      .signed-out-dropdown-1 .initial.signed-out-dropdown,.signed-out-dropdown-1 .closed.signed-out-dropdown,.signed-out-dropdown-1 .open.signed-out-dropdown {
+        right: 39.7rem;
+      }
+
+      .signed-out-dropdown-1 .search-hidden.initial.signed-out-dropdown,.signed-out-dropdown-1 .search-hidden.closed.signed-out-dropdown,.signed-out-dropdown-1 .search-hidden.open.signed-out-dropdown {
+        right: 23.5rem;
+      }
+
+      }</style><!-- Shady DOM styles for ia-topnav --><style scope="ia-topnav-1">.ia-topnav-1 {
+        ;
+
+          color: #fff;
+          font-size: 2rem;
+          font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      }
+
+      .ia-topnav-1 #close-layer.ia-topnav {
+        display: none;
+          position: fixed;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          z-index: 0;
+      }
+
+      .ia-topnav-1 #close-layer.visible.ia-topnav {
+        display: block;
+      }
+
+      .ia-topnav-1 .topnav.ia-topnav {
+        position: relative;
+          z-index: 3;
+      }
+
+      @media (max-width: 889px) {
+      .ia-topnav-1 desktop-subnav.ia-topnav {
+        display: none;
+      }
+
+      }</style><style>body {transition: opacity ease-in 0.2s; } 
+      body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+      </style>
+          <div class="topnav style-scope ia-topnav">
+        <primary-nav class="style-scope ia-topnav x-scope primary-nav-1"><!---->
+      <nav class="style-scope primary-nav">
+        <a class="link-home style-scope primary-nav" href="https://archive.org" data-event-click-tracking="BetaTopNav|NavHome"><!---->
+  <svg class="ia-logo style-scope primary-nav" width="27" height="30" viewBox="0 0 27 30" xmlns="http://www.w3.org/2000/svg" aria-labelledby="logoTitleID logoDescID">
+    <title id="logoTitleID" class="style-scope primary-nav">Internet Archive logo</title>
+    <desc id="logoDescID" class="style-scope primary-nav">A line drawing of the Internet Archive headquarters building façade.</desc>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="style-scope primary-nav">
+      <mask id="mask-2" fill="white" class="style-scope primary-nav">
+        <path d="M26.6666667,28.6046512 L26.6666667,30 L0,30 L0.000283687943,28.6046512 L26.6666667,28.6046512 Z M25.6140351,26.5116279 L25.6140351,28.255814 L1.05263158,28.255814 L1.05263158,26.5116279 L25.6140351,26.5116279 Z M3.62469203,7.6744186 L3.91746909,7.82153285 L4.0639977,10.1739544 L4.21052632,13.9963932 L4.21052632,17.6725617 L4.0639977,22.255044 L4.03962296,25.3421929 L3.62469203,25.4651163 L2.16024641,25.4651163 L1.72094074,25.3421929 L1.55031755,22.255044 L1.40350877,17.6970339 L1.40350877,14.0211467 L1.55031755,10.1739544 L1.68423854,7.80887484 L1.98962322,7.6744186 L3.62469203,7.6744186 Z M24.6774869,7.6744186 L24.9706026,7.82153285 L25.1168803,10.1739544 L25.2631579,13.9963932 L25.2631579,17.6725617 L25.1168803,22.255044 L25.0927809,25.3421929 L24.6774869,25.4651163 L23.2130291,25.4651163 L22.7736357,25.3421929 L22.602418,22.255044 L22.4561404,17.6970339 L22.4561404,14.0211467 L22.602418,10.1739544 L22.7369262,7.80887484 L23.0420916,7.6744186 L24.6774869,7.6744186 Z M9.94042303,7.6744186 L10.2332293,7.82153285 L10.3797725,10.1739544 L10.5263158,13.9963932 L10.5263158,17.6725617 L10.3797725,22.255044 L10.3556756,25.3421929 L9.94042303,25.4651163 L8.47583122,25.4651163 L8.0362015,25.3421929 L7.86556129,22.255044 L7.71929825,17.6970339 L7.71929825,14.0211467 L7.86556129,10.1739544 L8.00005604,7.80887484 L8.30491081,7.6744186 L9.94042303,7.6744186 Z M18.0105985,7.6744186 L18.3034047,7.82153285 L18.449948,10.1739544 L18.5964912,13.9963932 L18.5964912,17.6725617 L18.449948,22.255044 L18.425851,25.3421929 L18.0105985,25.4651163 L16.5460067,25.4651163 L16.1066571,25.3421929 L15.9357367,22.255044 L15.7894737,17.6970339 L15.7894737,14.0211467 L15.9357367,10.1739544 L16.0702315,7.80887484 L16.3753664,7.6744186 L18.0105985,7.6744186 Z M25.6140351,4.53488372 L25.6140351,6.97674419 L1.05263158,6.97674419 L1.05263158,4.53488372 L25.6140351,4.53488372 Z M13.0806755,0 L25.9649123,2.93331338 L25.4484139,3.8372093 L0.771925248,3.8372093 L0,3.1041615 L13.0806755,0 Z" id="path-1" class="style-scope primary-nav"></path>
+      </mask>
+      <use fill="#FFFFFF" xlink:href="#path-1" class="style-scope primary-nav"></use>
+      <g mask="url(#mask-2)" fill="#FFFFFF" class="style-scope primary-nav">
+        <path d="M0,0 L26.6666667,0 L26.6666667,30 L0,30 L0,0 Z" id="swatch" class="style-scope primary-nav"></path>
+      </g>
+    </g>
+  </svg>
+<!---->
+  <svg class="ia-wordmark style-scope primary-nav" height="14" viewBox="0 0 183 14" width="183" xmlns="http://www.w3.org/2000/svg"><g fill="#fff" fill-rule="evenodd" class="style-scope primary-nav"><g transform="translate(107.24177)" class="style-scope primary-nav"><path d="m3.46567087 2.73592273c.09358964-.31350476.26547063-.95793121.26547063-1.08718317 0-.73655285-.57818604-.75488647-1.20271694-.86488814v-.40471447h2.93682509l3.81107838 12.38893815h-1.62387035l-1.17212033-3.82897484h-3.98340931l-1.17167038 3.82897484h-.96784292zm-.7032722 5.33783106h3.4520181l-1.78045302-5.37541496z" class="style-scope primary-nav"></path><path d="m13.7607138 2.88304997c0-1.82281935-.0319465-1.82281935-1.4843858-2.09919855v-.40471447h3.8425749c1.1721204 0 4.4050127 0 4.4050127 3.2954667 0 2.09828187-1.1554722 2.79816749-2.3896856 3.03696279l2.874282 6.05650866h-1.7957513l-2.7649442-5.72512863h-.9687428v5.72512863h-1.7183599zm1.7183599 3.29500836h.8909015c1.0146377 0 2.4364804-.33092169 2.4364804-2.39299467 0-1.98873853-.9687428-2.54103858-2.2812476-2.54103858-1.0461343 0-1.0461343.33138003-1.0461343 1.6573585z" class="style-scope primary-nav"></path><path d="m31.6158204 12.2524422c-.5304913.2768376-1.3903462.6998857-2.9989182.6998857-3.389925 0-4.6083902-2.4113283-4.6083902-6.55334954 0-3.35000921.8742533-6.07530059 4.3582178-6.07530059 1.3903462 0 2.4058839.27592086 3.1240044.55230005l.0940396 3.07500503h-.4530999c-.062543-.9395976-.921948-2.743625-2.6088113-2.743625-2.296096 0-2.6713545 2.88983555-2.6713545 5.19162051 0 2.90816916.8598549 5.52254214 3.0304147 5.52254214 1.4843858 0 2.2497511-.5523 2.7338976-.9386809z" class="style-scope primary-nav"></path><path d="m36.1784975 2.80971552c0-1.45568877-.0935896-1.62114962-1.5626771-1.80448573v-.40563116l3.2805871-.42258975v5.70633665h4.2484299v-5.50420858h1.7183599v12.38893815h-1.7183599v-6.01984144h-4.2484299v6.01984144h-1.71791z" class="style-scope primary-nav"></path><path d="m46.8631973 12.3083598c1.1086774 0 1.3273532-.2759209 1.3273532-1.711901v-7.91645358c0-1.43598014-.2186758-1.71144266-1.3273532-1.71144266v-.46109033h4.3735162v.46109033c-1.093829 0-1.3273532.27546252-1.3273532 1.71144266v7.91645358c0 1.4359801.2335242 1.711901 1.3273532 1.711901v.4597153h-4.3735162z" class="style-scope primary-nav"></path><path d="m56.1269544 2.73592273c-.4998947-1.67569211-.6407291-1.67569211-1.8902409-1.95207131v-.40471447h3.0304147l3.0614614 10.08806985h.0310465l2.9840699-10.08806985h1.0146377l-3.8106284 12.38893815h-1.3588497z" class="style-scope primary-nav"></path><path d="m68.8422796 2.88304997c0-1.82281935-.0467948-1.82281935-1.4839359-2.09919855v-.40471447h7.4826722l.0467949 2.7243747h-.4378016c0-1.47264736-.6555775-1.85948657-1.6868634-1.85948657h-1.2184652c-.7806636 0-.9835912.07333445-.9835912.95747287v3.66351396h1.8902409c1.0767309 0 1.1865187-.80942895 1.2805583-1.41672984h.4369017v3.86518369h-.4369017c0-.9941401-.3437619-1.58356571-1.2805583-1.58356571h-1.8902409v4.10535405c0 1.0308073.2029276 1.0679328.9835912 1.0679328h1.7345581c.8895516 0 1.311155-.3685056 1.4051946-1.8040274h.4378015l-.0476947 2.6689156h-6.2322605z" class="style-scope primary-nav"></path></g><g transform="translate(.24177 .277385)" class="style-scope primary-nav"><path d="m1.57302598 10.3699491v-8.03470531c0-1.45706379-.25962128-1.73802639-1.57302598-1.73802639v-.46659042h5.18252665v.46659042c-1.29540668 0-1.57302597.2809626-1.57302597 1.73802639v8.03470531c0 1.4575222.27761929 1.7366514 1.57302597 1.7366514v.4675071h-5.18252665v-.4675071c1.3134047 0 1.57302598-.2791292 1.57302598-1.7366514z" class="style-scope primary-nav"></path><path d="m10.0331719 2.39116131c0-1.73756805-.25872136-1.66240024-1.85064525-1.98003007v-.41113124h3.90556795l5.830455 10.1641543h.0368959v-10.1641543h1.1662709v12.5741076h-1.7773033l-6.1076243-10.63028642h-.0373459v10.63028642h-1.166271z" class="style-scope primary-nav"></path><path d="m25.9161467.87818h-1.2774087c-1.4618883 0-1.8875412.46704876-1.9991288 1.83198615h-.5178928l.0737919-2.71016615h9.4768516l.0742417 2.76562533h-.5183426c0-1.43873018-.5925845-1.88744533-2.0175768-1.88744533h-1.2580608v11.6959276h-2.0364747z" class="style-scope primary-nav"></path><path d="m36.505907 2.54103859c0-1.84986143-.0562438-1.84986143-1.7593054-2.12990735v-.41113124h8.8658192l.0557938 2.76562533h-.5183426c0-1.49510604-.777064-1.88744533-1.9982289-1.88744533h-1.4443403c-.9255476 0-1.1662709.07516781-1.1662709.97213976v3.71805646h2.2398522c1.2769587 0 1.4060944-.82272082 1.5176821-1.43964686h.5187926v3.92430959h-.5187926c0-1.00880698-.406755-1.60648273-1.5176821-1.60648273h-2.2398522v4.16631328c0 1.0463909.2407233 1.0830581 1.1662709 1.0830581h2.0544728c1.0555832 0 1.554578-.3735473 1.6652657-1.83061113h.5192426l-.0557938 2.70879113h-7.3845831z" class="style-scope primary-nav"></path><path d="m48.7037894 2.54103859c0-1.84986143-.0368959-1.84986143-1.7575055-2.12990735v-.41113124h4.5525963c1.3885464 0 5.2194226 0 5.2194226 3.34450912 0 2.13036568-1.3687486 2.8403348-2.8315368 3.08325515l3.4056733 6.14634333h-2.1287145l-3.2756376-5.81083823h-1.1478231v5.81083823h-2.0364747zm2.0364747 3.34405077h1.0555833c1.202267 0 2.8873305-.33550509 2.8873305-2.42782853 0-2.01898899-1.147823-2.57908083-2.7028509-2.57908083-1.2400629 0-1.2400629.33596344-1.2400629 1.68256722z" class="style-scope primary-nav"></path><path d="m62.1435345 2.39116131c0-1.73756805-.2596213-1.66240024-1.8510952-1.98003007v-.41113124h3.905118l5.830005 10.1641543h.0373458v-10.1641543h1.166271v12.5741076h-1.7764035l-6.1085242-10.63028642h-.0368959v10.63028642h-1.165821z" class="style-scope primary-nav"></path><path d="m75.9895846 2.54103859c0-1.84986143-.0553439-1.84986143-1.7584055-2.12990735v-.41113124h8.8658192l.0557938 2.76562533h-.5183426c0-1.49510604-.777964-1.88744533-1.9991289-1.88744533h-1.4438902c-.9250977 0-1.1658211.07516781-1.1658211.97213976v3.71805646h2.2394023c1.2774087 0 1.4060944-.82272082 1.5176821-1.43964686h.5187926v3.92430959h-.5187926c0-1.00880698-.406755-1.60648273-1.5176821-1.60648273h-2.2394023v4.16631328c0 1.0463909.2407234 1.0830581 1.1658211 1.0830581h2.0544727c1.0555832 0 1.5550279-.3735473 1.6661657-1.83061113h.5183426l-.0557938 2.70879113h-7.385033z" class="style-scope primary-nav"></path><path d="m90.2243917.87818h-1.2765088c-1.4623382 0-1.8879911.46704876-1.9995788 1.83198615h-.5178927l.0742418-2.71016615h9.4759517l.0742418 2.76562533h-.5178928c0-1.43873018-.5921344-1.88744533-2.0180267-1.88744533h-1.2585108v11.6959276h-2.0360247z" class="style-scope primary-nav"></path></g></g></svg>
+<!----></a>
+
+      <button class="search-trigger style-scope primary-nav" data-event-click-tracking="BetaTopNav|NavSearchOpen">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="searchTitleID searchDescID" class="style-scope primary-nav">
+    <title id="searchTitleID" class="style-scope primary-nav">Search icon</title>
+    <desc id="searchDescID" class="style-scope primary-nav">An illustration of a magnifying glass.</desc>
+    <path class="fill-color style-scope primary-nav" d="m32.4526364 29.8875889-8.1719472-7.9751279c1.1046135-1.4876138 1.7652549-3.3102407 1.7652549-5.2846451 0-.101185-.0142895-.1981539-.030573-.2944743.0166158-.0976175.0309053-.196208.0309053-.2990145 0-4.9814145-4.152935-9.0343271-9.2572866-9.0343271-.0907218 0-.1781206.01394537-.2655193.02594487-.0880633-.0119995-.1747974-.02594487-.2655193-.02594487-5.1046839 0-9.25761889 4.0529126-9.25761889 9.0343271 0 .1011849.01395722.1981539.03057294.2947985-.01694804.0976176-.03090525.1958838-.03090525.2986903 0 4.9814145 4.1526027 9.0346514 9.2572866 9.0346514.0907218 0 .1777882-.0139454.2658516-.0262692.0873987.0123238.1741328.0262692.265187.0262692 1.7306942 0 3.3467399-.4747911 4.7338208-1.2852439l8.2882574 8.0886366c.3652137.3564177.843082.53414 1.3212826.53414.4782007 0 .9567336-.1780467 1.3212827-.53414.7294304-.7118622.7294304-1.8660845-.0003323-2.5782711zm-15.9526364-7.8875889c-.0832667-.0118703-.1652765-.0253024-.2513711-.0253024-2.8781993 0-5.2197212-2.3278242-5.2197212-5.1891862 0-.0974612-.013197-.1908615-.0289077-.2836371.0160249-.0940251.0292219-.1889874.0292219-.2880105 0-2.861362 2.3418361-5.1891861 5.2200354-5.1891861.0854662 0 .1677902-.0131198.2510569-.0246777.0826383.0115579.1649623.0246777.2510569.0246777 2.8781993 0 5.2197212 2.3278241 5.2197212 5.1891861 0 .0974612.0135112.1908616.0289077.2839496-.0157107.0940251-.0295361.1886749-.0295361.287698 0 2.861362-2.3415219 5.1891862-5.2197212 5.1891862-.0860946 0-.1684187.0134321-.2507427.0253024z" fill-rule="evenodd"></path>
+  </svg>
+
+      </button>
+      <nav-search class="style-scope primary-nav x-scope nav-search-1"><!----><div class="search-activated fade-in search-inactive style-scope nav-search">
+      <form id="nav-search" class="highlight style-scope nav-search" method="get" action="https://archive.org/search.php" data-event-submit-tracking="BetaTopNav|NavSearchSubmit">
+        <input type="text" name="query" class="search-field style-scope nav-search" placeholder="Search" autocomplete="off">
+        <input type="hidden" name="sin" class="style-scope nav-search" value="">
+        <button type="submit" class="search style-scope nav-search" data-event-click-tracking="BetaTopNav|NavSearchClose">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="searchTitleID searchDescID" class="style-scope nav-search">
+    <title id="searchTitleID" class="style-scope nav-search">Search icon</title>
+    <desc id="searchDescID" class="style-scope nav-search">An illustration of a magnifying glass.</desc>
+    <path class="fill-color style-scope nav-search" d="m32.4526364 29.8875889-8.1719472-7.9751279c1.1046135-1.4876138 1.7652549-3.3102407 1.7652549-5.2846451 0-.101185-.0142895-.1981539-.030573-.2944743.0166158-.0976175.0309053-.196208.0309053-.2990145 0-4.9814145-4.152935-9.0343271-9.2572866-9.0343271-.0907218 0-.1781206.01394537-.2655193.02594487-.0880633-.0119995-.1747974-.02594487-.2655193-.02594487-5.1046839 0-9.25761889 4.0529126-9.25761889 9.0343271 0 .1011849.01395722.1981539.03057294.2947985-.01694804.0976176-.03090525.1958838-.03090525.2986903 0 4.9814145 4.1526027 9.0346514 9.2572866 9.0346514.0907218 0 .1777882-.0139454.2658516-.0262692.0873987.0123238.1741328.0262692.265187.0262692 1.7306942 0 3.3467399-.4747911 4.7338208-1.2852439l8.2882574 8.0886366c.3652137.3564177.843082.53414 1.3212826.53414.4782007 0 .9567336-.1780467 1.3212827-.53414.7294304-.7118622.7294304-1.8660845-.0003323-2.5782711zm-15.9526364-7.8875889c-.0832667-.0118703-.1652765-.0253024-.2513711-.0253024-2.8781993 0-5.2197212-2.3278242-5.2197212-5.1891862 0-.0974612-.013197-.1908615-.0289077-.2836371.0160249-.0940251.0292219-.1889874.0292219-.2880105 0-2.861362 2.3418361-5.1891861 5.2200354-5.1891861.0854662 0 .1677902-.0131198.2510569-.0246777.0826383.0115579.1649623.0246777.2510569.0246777 2.8781993 0 5.2197212 2.3278241 5.2197212 5.1891861 0 .0974612.0135112.1908616.0289077.2839496-.0157107.0940251-.0295361.1886749-.0295361.287698 0 2.861362-2.3415219 5.1891862-5.2197212 5.1891862-.0860946 0-.1684187.0134321-.2507427.0253024z" fill-rule="evenodd"></path>
+  </svg>
+
+        </button>
+      </form>
+    </div><!----></nav-search>
+
+        <a class="upload style-scope primary-nav" href="https://archive.org/create/">
+
+  <svg width="40" height="41" viewBox="0 0 40 41" xmlns="http://www.w3.org/2000/svg" aria-labelledby="uploadTitleID uploadDescID" class="style-scope primary-nav">
+    <title id="uploadTitleID" class="style-scope primary-nav">Upload icon</title>
+    <desc id="uploadDescID" class="style-scope primary-nav">An illustration of a horizontal line over an up pointing arrow.</desc>
+    <path class="fill-color style-scope primary-nav" d="m20 12.8 8 10.4h-4.8v8.8h-6.4v-8.8h-4.8zm12-4.8v3.2h-24v-3.2z" fill-rule="evenodd"></path>
+  </svg>
+
+          <span class="style-scope primary-nav">Upload</span>
+        </a>
+        <div class="user-info style-scope primary-nav">
+
+      <login-button class="style-scope primary-nav x-scope login-button-1"><!---->
+      <div class="logged-out-toolbar style-scope login-button">
+        <a class="dropdown-toggle style-scope login-button" data-event-click-tracking="BetaTopNav|NavLoginIcon">
+
+  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="userTitleID userDescID" class="style-scope login-button">
+    <title id="userTitleID" class="style-scope login-button">User icon</title>
+    <desc id="userDescID" class="style-scope login-button">An illustration of a person's head and chest.</desc>
+    <path class="fill-color style-scope login-button" d="m20.7130435 18.0434783c-3.5658385 0-6.4565218-2.9198821-6.4565218-6.5217392 0-3.60185703 2.8906833-6.5217391 6.4565218-6.5217391s6.4565217 2.91988207 6.4565217 6.5217391c0 3.6018571-2.8906832 6.5217392-6.4565217 6.5217392zm-12.9130435 16.9565217c0-7.9240855 5.7813665-14.3478261 12.9130435-14.3478261s12.9130435 6.4237406 12.9130435 14.3478261z" fill-rule="evenodd"></path>
+  </svg>
+
+        </a>
+        <span class="style-scope login-button">
+          <a class="style-scope login-button" href="https://archive.org/account/signup">Sign up</a>
+          |
+          <a class="style-scope login-button" href="https://archive.org/account/login">Log in</a>
+        </span>
+      </div>
+    <!----></login-button>
+
+        </div>
+        <media-menu class="style-scope primary-nav x-scope media-menu-1" tabindex="-1"><!---->
+      <nav class="media-menu tx-slide closed style-scope media-menu" aria-hidden="true" aria-expanded="false">
+        <div class="menu-group style-scope media-menu">
+          <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="web"><!---->
+      <a class="menu-item web  style-scope media-button" href="https://archive.org/web/" data-event-click-tracking="BetaTopNav|NavMenuWeb">
+
+      <span class="icon  style-scope media-button">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="webTitleID webDescID" class="style-scope media-button">
+    <title id="webTitleID" class="style-scope media-button">Web icon</title>
+    <desc id="webDescID" class="style-scope media-button">An illustration of a computer application window</desc>
+    <path class="fill-color style-scope media-button" d="m8 28.7585405v-8.1608108-9.3577297h24v9.3577297 8.1608108zm14.2702703-15.8863783h-12.43243246v2.6114594h12.43243246zm7.7837838 14.0365946v-7.0727027-1.8497838h-20.21621626v1.8497838 7.0727027zm-3.7837838-14.0365946h-2.7027027v2.6114594h2.7027027zm4 0h-2.7027027v2.6114594h2.7027027z" fill-rule="evenodd"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Wayback Machine<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="texts"><!---->
+      <a class="menu-item texts  style-scope media-button" href="https://archive.org/details/texts" data-event-click-tracking="BetaTopNav|NavMenuTexts">
+
+      <span class="icon  style-scope media-button">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="textsTitleID textsDescID" class="style-scope media-button">
+    <title id="textsTitleID" class="style-scope media-button">Texts icon</title>
+    <desc id="textsDescID" class="style-scope media-button">An illustration of an open book.</desc>
+    <path class="fill-color style-scope media-button" d="m10.3323235 11.0007023h6.9060825c.8851083 0 1.5847122.3064258 2.0988114.9192774v14.4324451h-.6460032c-.1435563-.120323-.3528315-.2434552-.6278257-.3693964-.2749942-.1259413-.5201585-.2191097-.7354929-.2795053l-.3048241-.1081503h-5.7042647c-.3108832 0-.5621067-.0601615-.7536705-.1804846-.0717781-.0599274-.1256117-.1439663-.1615008-.2521166-.0358891-.1081502-.0598928-.2043619-.0720112-.2886348v-13.8741368zm19.1752505 0v13.603761c-.0717781.3361555-.2211606.5943584-.4481473.7746089-.0717781.0599274-.1733862.1079162-.304824.1439663-.1314379.0360501-.2451643.0601615-.3411793.0723343h-5.5965975c-.9568865.2640552-1.5068748.5164059-1.649965.757052h-.6634817v-14.4324451c.5140992-.6128516 1.2076439-.9192774 2.0806339-.9192774h6.92426zm1.3814961.6489017-.1796783 15.2976474c-.0955489 0-1.0342578.0119386-2.8161268.035816-1.7818691.0238773-3.3006293.0898911-4.5562806.1980414-1.2556514.1081503-1.9613144.2884008-2.1169891.5407514-.0955488.1924233-.5439291.273419-1.345141.2429871-.8012118-.0304319-1.3155441-.1776755-1.5429969-.4417308-.334654-.3843783-3.4558378-.5765674-9.36355164-.5765674v-15.3875385l-.96830576.3960828v16.2702977c6.4096947-.2041278 9.7760429-.0840388 10.0990445.3602669.2391051.276228.9864833.414342 2.2421347.414342.1915638 0 .4187835-.0210682.6816593-.0632047s.4810068-.0870821.6543929-.1348367c.1733862-.0477547.2719646-.0838048.2957353-.1081503.0838965-.1563732.9599161-.2675666 2.6280587-.3335805 1.6681426-.0660138 3.3213703-.0931684 4.9596831-.0814638l2.4392915.0182591v-16.2344816z"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Books<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="video"><!---->
+      <a class="menu-item video  style-scope media-button" href="https://archive.org/details/movies" data-event-click-tracking="BetaTopNav|NavMenuVideo">
+
+      <span class="icon  style-scope media-button">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="videoTitleID videoDescID" class="style-scope media-button">
+    <title id="videoTitleID" class="style-scope media-button">Video icon</title>
+    <desc id="videoDescID" class="style-scope media-button">An illustration of two cells of a film strip.</desc>
+    <path class="fill-color style-scope media-button" d="m31.0117647 12.0677966c0 .4067797-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711864-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067797-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711864-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711865-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.3898305c0 .4067797-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711864-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711865-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.2711865-.7058823-.6779661v-.6779661c0-.4067797.2823529-.6779661.7058823-.6779661h1.2705883c.4235294 0 .7058823.2711864.7058823.6779661zm-4.0941176-10.440678c0 .5423729-.4235295.9491525-.9882353.9491525h-11.5764706c-.5647059 0-.9882353-.4067796-.9882353-.9491525v-6.9152542c0-.5423729.4235294-.9491526.9882353-.9491526h11.5764706c.5647058 0 .9882353.4067797.9882353.9491526zm-.1411765 11.2542373c0 .5423729-.4235294.9491525-.9882353.9491525h-11.5764706c-.5647059 0-.9882353-.4067796-.9882353-.9491525v-6.9152542c0-.5423729.4235294-.9491526.9882353-.9491526h11.5764706c.5647059 0 .9882353.4067797.9882353.9491526zm-14.9647059-17.220339c0 .4067797-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711864-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067797-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711864-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711865-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.3898305c0 .4067797-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711864-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711865-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm0 3.2542373c0 .4067796-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.2711865-.70588236-.6779661v-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661zm20.0470588-20.4745763h-.8470588v.27118644.6779661c0 .40677966-.2823529.6779661-.7058823.6779661h-1.2705883c-.4235294 0-.7058823-.27118644-.7058823-.6779661v-.6779661-.27118644h-16.5176471v.27118644.6779661c0 .40677966-.2823529.6779661-.7058823.6779661h-1.27058828c-.42352941 0-.70588236-.27118644-.70588236-.6779661v-.6779661-.27118644h-1.12941176v24h1.12941176v-.2711864-.6779661c0-.4067797.28235295-.6779661.70588236-.6779661h1.27058828c.4235294 0 .7058823.2711864.7058823.6779661v.6779661.2711864h16.6588235v-.2711864-.6779661c0-.4067797.282353-.6779661.7058824-.6779661h1.2705882c.4235294 0 .7058824.2711864.7058824.6779661v.6779661.2711864h.8470588v-24z" fill-rule="evenodd"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Video<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="audio"><!---->
+      <a class="menu-item audio  style-scope media-button" href="https://archive.org/details/audio" data-event-click-tracking="BetaTopNav|NavMenuAudio">
+
+      <span class="icon  style-scope media-button">
+
+  <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="audioTitleID audioDescID" class="style-scope media-button">
+    <title id="audioTitleID" class="style-scope media-button">Audio icon</title>
+    <desc id="audioDescID" class="style-scope media-button">An illustration of an audio speaker.</desc>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="style-scope media-button">
+      <g transform="translate(10, 8)" class="fill-color style-scope media-button">
+        <path d="M19.4264564,11.8585048 L19.4264564,20.7200433 C19.4264564,22.3657576 18.8838179,23.2519114 16.8489237,23.2519114 C12.2364969,23.125318 7.75972977,23.125318 3.14730298,23.2519114 C1.24806842,23.2519114 0.569770368,22.492351 0.569770368,20.7200433 L0.569770368,2.74377955 C0.569770368,1.09806526 1.11240881,0.211911416 3.14730298,0.211911416 C7.75972977,0.338504822 12.2364969,0.338504822 16.8489237,0.211911416 C18.7481583,0.211911416 19.4264564,0.971471855 19.4264564,2.74377955 C19.2907967,5.78202131 19.4264564,8.82026306 19.4264564,11.8585048 L19.4264564,11.8585048 Z M10.0659432,2.74377955 C8.16670861,2.74377955 6.67445288,4.13630702 6.67445288,5.90861471 C6.67445288,7.6809224 8.16670861,9.07344988 10.0659432,9.07344988 C11.9651777,9.07344988 13.4574335,7.6809224 13.4574335,5.90861471 C13.4574335,4.13630702 11.8295181,2.74377955 10.0659432,2.74377955 L10.0659432,2.74377955 Z M10.0659432,11.4787246 C7.21709133,11.4787246 5.04653754,13.6308125 5.04653754,16.1626806 C5.04653754,18.8211422 7.35275094,20.8466367 10.0659432,20.8466367 C12.914795,20.8466367 15.0853488,18.6945488 15.0853488,16.1626806 C15.0853488,13.6308125 12.7791354,11.4787246 10.0659432,11.4787246 L10.0659432,11.4787246 Z" class="style-scope media-button"></path>
+        <ellipse cx="10.2016028" cy="16.5690777" rx="1.35659611" ry="1.34075134" class="style-scope media-button"></ellipse>
+      </g>
+    </g>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Audio<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="software"><!---->
+      <a class="menu-item software  style-scope media-button" href="https://archive.org/details/software" data-event-click-tracking="BetaTopNav|NavMenuSoftware">
+
+      <span class="icon  style-scope media-button">
+
+  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="softwareTitleID softwareDescID" class="style-scope media-button">
+    <title id="softwareTitleID" class="style-scope media-button">Software icon</title>
+    <desc id="softwareDescID" class="style-scope media-button">An illustration of a 3.5" floppy disk.</desc>
+    <path class="fill-color style-scope media-button" d="m32 30.6900373v-21.44521088c0-.82988428-.4156786-1.24482642-1.2470357-1.24482642h-21.50592858c-.83135715 0-1.24703572.4221795-1.24703572 1.26653851v21.44521089c0 .8588337.41567857 1.2882506 1.24703572 1.2882506h21.48327168c.8458575 0 1.2687863-.4366542 1.2687863-1.3099627zm-5.9950155-20.4410268v6.114667c0 .6694561-.3428744 1.0041841-1.0286232 1.0041841h-10.1294464c-.2622159 0-.4773054-.0802141-.6452685-.2406423s-.2519447-.3642806-.2519447-.6115572v-6.1363791l.0217506-.1311772h12.0326259zm-4.9437353.8295827v5.0010178h3.0405558v-5.0010178zm-9.7134658 18.8035735v-7.753025c0-.5241057.1604108-.9025595.4812325-1.1353613.1897138-.1453504.4011782-.2180256.6343932-.2180256h14.7451099c.3208217 0 .5905898.1091636.8093044.3274907s.3280719.5023936.3280719.8521995v7.8181612l-.0217506.1094652h-16.9772676z"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Software<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="images"><!---->
+      <a class="menu-item images  style-scope media-button" href="https://archive.org/details/image" data-event-click-tracking="BetaTopNav|NavMenuImages">
+
+      <span class="icon  style-scope media-button">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="imagesTitleID imagesDescID" class="style-scope media-button">
+    <title id="imagesTitleID" class="style-scope media-button">Images icon</title>
+    <desc id="imagesDescID" class="style-scope media-button">An illustration of two photographs.</desc>
+    <path class="fill-color style-scope media-button" d="m20.8219178 15.3769871c0 1.1136708-.8767123 1.8932404-1.8630137 1.8932404s-1.9726027-.8909367-1.9726027-1.8932404c0-1.0023038.8767123-1.8932404 1.9726027-1.8932404.9863014 0 1.8630137.8909366 1.8630137 1.8932404zm-5.9178082-3.7864808h15.4520548v6.0138225l-1.9726028-3.3410125-2.6301369 6.3479237-2.1917809-2.67281-6.1369863 5.1228859h-2.5205479zm-1.7534247-1.6705063v14.9231892h18.8493151v-14.9231892zm-2.9589041 7.2388604c.2191781 0 1.9726028-.3341012 1.9726028-.3341012v-2.0046075l-4.1643836.5568354c.43835616 4.7887846.87671233 9.9116704 1.31506849 14.700455 6.02739731-.5568354 13.26027401-1.5591391 19.39726031-2.1159746-.1095891-.5568354-.1095891-2.0046075-.2191781-2.67281-.4383562.1113671-1.4246575 0-1.8630137.1113671v.8909367c-5.1506849.4454683-10.3013699 1.1136708-15.4520548 1.6705062.109589-.111367-.5479452-7.0161262-.9863014-10.8026071z" fill-rule="evenodd"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Images<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="donate"><!---->
+      <a class="menu-item donate  style-scope media-button" href="https://archive.org/donate/" data-event-click-tracking="BetaTopNav|NavMenuDonate">
+
+      <span class="icon  style-scope media-button">
+
+  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="donateTitleID donateDescID" class="style-scope media-button">
+    <title id="donateTitleID" class="style-scope media-button">Donate icon</title>
+    <desc id="donateDescID" class="style-scope media-button">An illustration of a heart shape</desc>
+    <path class="fill-color style-scope media-button" d="m30.0120362 11.0857287c-1.2990268-1.12627221-2.8599641-1.65258786-4.682812-1.57894699-.8253588.02475323-1.7674318.3849128-2.8262192 1.08047869-1.0587873.6955659-1.89622 1.5724492-2.512298 2.63065-.591311-1.0588196-1.4194561-1.9357029-2.4844351-2.63065-1.0649791-.69494706-2.0039563-1.05510663-2.8169316-1.08047869-1.2067699-.04950647-2.318187.17203498-3.3342513.66462439-1.0160643.4925893-1.82594378 1.2002224-2.42963831 2.1228992-.60369453.9226769-.91173353 1.9629315-.92411701 3.1207641-.03715043 1.9202322.70183359 3.7665141 2.21695202 5.5388457 1.2067699 1.4035084 2.912594 3.1606786 5.1174721 5.2715107 2.2048782 2.1108321 3.7565279 3.5356901 4.6549492 4.2745742.8253588-.6646243 2.355647-2.0647292 4.5908647-4.2003145s3.9747867-3.9171994 5.218707-5.3448422c1.502735-1.7723316 2.2355273-3.6186135 2.1983769-5.5388457-.0256957-1.7608832-.6875926-3.2039968-1.9866194-4.3302689z"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->Donate<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        <media-button class="style-scope media-menu x-scope media-button-1" data-mediatype="more"><!---->
+      <a class="menu-item more  style-scope media-button" href="https://archive.org/about/" data-event-click-tracking="BetaTopNav|NavMenuMore">
+
+      <span class="icon  style-scope media-button">
+
+  <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="ellipsesTitleID ellipsesDescID" class="style-scope media-button">
+    <title id="ellipsesTitleID" class="style-scope media-button">Ellipses icon</title>
+    <desc id="ellipsesDescID" class="style-scope media-button">An illustration of text ellipses.</desc>
+    <path class="fill-color style-scope media-button" d="m10.5 17.5c1.3807119 0 2.5 1.1192881 2.5 2.5s-1.1192881 2.5-2.5 2.5c-1.38071187 0-2.5-1.1192881-2.5-2.5s1.11928813-2.5 2.5-2.5zm9.5 0c1.3807119 0 2.5 1.1192881 2.5 2.5s-1.1192881 2.5-2.5 2.5-2.5-1.1192881-2.5-2.5 1.1192881-2.5 2.5-2.5zm9.5 0c1.3807119 0 2.5 1.1192881 2.5 2.5s-1.1192881 2.5-2.5 2.5-2.5-1.1192881-2.5-2.5 1.1192881-2.5 2.5-2.5z" fill-rule="evenodd"></path>
+  </svg>
+
+      </span>
+      <span class="label style-scope media-button"><!---->More<!----></span>
+
+      </a>
+    <!----></media-button>
+      <!---->
+        </div>
+      </nav>
+    <!----></media-menu>
+        <button class="hamburger style-scope primary-nav" tabindex="1" data-event-click-tracking="BetaTopNav|NavHamburger">
+          <icon-hamburger class="style-scope primary-nav x-scope icon-hamburger-1"><!---->
+      <svg height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="hamburgerTitleID hamburgerDescID" class="style-scope icon-hamburger">
+        <title id="hamburgerTitleID" class="style-scope icon-hamburger">Hamburger icon</title>
+        <desc id="hamburgerDescID" class="style-scope icon-hamburger">An icon used to represent a menu that can be toggled by interacting with this icon.</desc>
+        <path d="m30.5 26.5c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5zm0-8c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5zm0-8c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5z" fill="#999" fill-rule="evenodd" class="style-scope icon-hamburger"></path>
+      </svg>
+    <!----></icon-hamburger>
+        </button>
+      </nav>
+    <!----></primary-nav>
+        <media-slider class="style-scope ia-topnav x-scope media-slider-1"><!---->
+      <div class="overflow-clip closed style-scope media-slider">
+        <div class="information-menu closed style-scope media-slider">
+          <div class="info-box style-scope media-slider">
+            <media-subnav class="style-scope media-slider x-scope media-subnav-1"><!----><!----></media-subnav>
+          </div>
+        </div>
+      </div>
+    <!----></media-slider>
+      </div>
+      <desktop-subnav class="style-scope ia-topnav x-scope desktop-subnav-1"><!---->
+      <ul class="style-scope desktop-subnav">
+        <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="about style-scope desktop-subnav" href="https://archive.org/about/"><!---->About<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="blog style-scope desktop-subnav" href="https://blog.archive.org/"><!---->Blog<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="projects style-scope desktop-subnav" href="https://archive.org/projects/"><!---->Projects<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="help style-scope desktop-subnav" href="https://archive.org/about/faqs.php"><!---->Help<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="donate style-scope desktop-subnav" href="https://archive.org/donate/"><!---->Donate<!---->
+  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="donateTitleID donateDescID" class="style-scope desktop-subnav">
+    <title id="donateTitleID" class="style-scope desktop-subnav">Donate icon</title>
+    <desc id="donateDescID" class="style-scope desktop-subnav">An illustration of a heart shape</desc>
+    <path class="fill-color style-scope desktop-subnav" d="m30.0120362 11.0857287c-1.2990268-1.12627221-2.8599641-1.65258786-4.682812-1.57894699-.8253588.02475323-1.7674318.3849128-2.8262192 1.08047869-1.0587873.6955659-1.89622 1.5724492-2.512298 2.63065-.591311-1.0588196-1.4194561-1.9357029-2.4844351-2.63065-1.0649791-.69494706-2.0039563-1.05510663-2.8169316-1.08047869-1.2067699-.04950647-2.318187.17203498-3.3342513.66462439-1.0160643.4925893-1.82594378 1.2002224-2.42963831 2.1228992-.60369453.9226769-.91173353 1.9629315-.92411701 3.1207641-.03715043 1.9202322.70183359 3.7665141 2.21695202 5.5388457 1.2067699 1.4035084 2.912594 3.1606786 5.1174721 5.2715107 2.2048782 2.1108321 3.7565279 3.5356901 4.6549492 4.2745742.8253588-.6646243 2.355647-2.0647292 4.5908647-4.2003145s3.9747867-3.9171994 5.218707-5.3448422c1.502735-1.7723316 2.2355273-3.6186135 2.1983769-5.5388457-.0256957-1.7608832-.6875926-3.2039968-1.9866194-4.3302689z"></path>
+  </svg>
+<!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="contact style-scope desktop-subnav" href="https://archive.org/about/contact.php"><!---->Contact<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="jobs style-scope desktop-subnav" href="https://archive.org/about/jobs.php"><!---->Jobs<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="volunteer style-scope desktop-subnav" href="https://archive.org/about/volunteerpositions.php"><!---->Volunteer<!----><!----></a>
+        </li>
+      <!---->
+        <li class="style-scope desktop-subnav">
+          <a class="people style-scope desktop-subnav" href="https://archive.org/about/bios.php"><!---->People<!----><!----></a>
+        </li>
+      <!---->
+      </ul>
+    <!----></desktop-subnav>
+      <search-menu class="style-scope ia-topnav x-scope search-menu-1" tabindex="-1"><!---->
+      <div class="search-menu tx-slide closed style-scope search-menu" aria-hidden="true" aria-expanded="false">
+        <!---->
+        <label class="style-scope search-menu">
+          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="" checked="">
+          Search Metadata
+        </label>
+      <!---->
+        <label class="style-scope search-menu">
+          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="TXT">
+          Search text contents
+        </label>
+      <!---->
+        <label class="style-scope search-menu">
+          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="TV">
+          Search TV news captions
+        </label>
+      <!----><!---->
+        <label class="style-scope search-menu">
+          <input form="nav-search" type="radio" name="sin" class="style-scope search-menu" value="WEB">
+          Search archived websites
+        </label>
+      <!---->
+        <a class="advanced-search style-scope search-menu" href="https://archive.org/advancedsearch.php" data-event-click-tracking="BetaTopNav|NavAdvancedSearch">Advanced Search</a>
+      </div>
+    <!----></search-menu>
+
+      <signed-out-dropdown class="style-scope ia-topnav x-scope signed-out-dropdown-1" tabindex="-1"><!---->
+      <nav class="initial style-scope signed-out-dropdown" aria-hidden="true" aria-expanded="false">
+        <ul class="style-scope signed-out-dropdown">
+          <!---->
+        <li class="style-scope signed-out-dropdown"><!----><a class="style-scope signed-out-dropdown" href="https://archive.org/account/signup" data-event-click-tracking="BetaTopNav|NavSignUpDropdown"><!---->Sign up for free<!----></a><!----></li>
+      <!---->
+        <li class="style-scope signed-out-dropdown"><!----><a class="style-scope signed-out-dropdown" href="https://archive.org/account/login" data-event-click-tracking="BetaTopNav|NavLogInDropdown"><!---->Log in<!----></a><!----></li>
+      <!---->
+        </ul>
+      </nav>
+    <!----></signed-out-dropdown>
+
+    </noscript>                      </ia-topnav>
+
+                  </div>
+            <input class="js-tvsearch" type="hidden" value='{"ands":[],"minday":"06/04/2009","maxday":"01/19/2022"}'/>
+    
+        <!-- Begin page content -->
+        <main id="maincontent">
+                    <div class="container container-ia">
+
+                  <h1>
+          Full text of "<a href="/details/srimadbhagavatam015439mbp">Srimad Bhagavatam</a>"
+        </h1>
+        <h2 class="pull-right">
+          <small><a href="/details/srimadbhagavatam015439mbp">See other formats</a></small>
+        </h2>
+        <br class="clearfix" clear="right"/>
+      <pre>"This book is published with the financial assistance of 
+Tirumala Tirupati Devasthanams 
+
+under their scheme aid to publish religious books" 
+
+
+
+: 328+12 
+
+
+
+: 1997 
+
+
+
+1 ,OOO 
+1OOA 
+
+
+
+D 2 - 791 , tu.a.cd 
+
+b - 56O O47 
+: 5554694 
+
+
+
+12/13, 
+e3orteUadb - 56O OO4 
+: 2224484 
+
+
+
+
+rqo 
+
+
+
+
+
+\J 
+
+
+
+tood 
+
+
+
+eoo)ex) 
+
+
+
+ISKCON 
+
+?to[p&gt;o 
+
+
+
+e? 
+
+
+
+. 
+escort 
+
+
+
+La, AJ^CO sss 
+
+' 
+
+
+
+k 
+
+
+
+asort 
+
+
+
+ISKCON cs 
+
+
+
+
+ofcodd &amp;s&gt;c3oi&gt; Soo^ So^rta tej^rfob 
+
+
+
+3S) 
+
+
+
+9TRT 
+
+
+
+01)^3 &lt;D^si&gt;cxJjs&lt;e oi^ s 
+?y^)3o^o P 
+
+.J 
+
+235,^02?^ 
+
+
+
+Aerf ?Jro ScJ?y^)3o^o P^.O s&amp;o oeflofc' II o 
+
+c3 .JO 
+
+
+
+e5e&lt;Dairod w,3o|S 
+tsrfood cxtode e5r1S ^sjrfcfa ^odd - 
+
+
+
+^d *iort,sod 
+
+
+
+idrt^rt^rt 
+
+
+
+sdosbc* 
+
+
+
+cSpasi33droci . 
+
+
+
+dxodDdDX) (1) 
+
+
+
+^ortrt^o. 
+
+
+
+dp* 
+
+
+
+(2) sto^afefc 
+(3) 
+
+
+
+olorls^ 
+
+
+
+oD 
+
+
+
+. eddo 
+
+
+
+rodd so^)oo 
+
+
+
+2oer?eoddb 
+
+
+
+
+
+
+&gt;rt 
+
+
+
+*eb^jrfpi 5s^d eepdo^oio sStS 
+
+
+
+w^rte '&amp;&gt;o4dbncStf wsScScv^^s ^e^cxtertzoa^db. 
+
+
+
+Sqiro^ddb. 
+
+sSodo 
+
+
+
+6 
+esSsfcsSe 
+
+
+
+^dro^dcb. 
+
+
+
+e eorf 
+
+
+
+wrt a 
+
+^ c^erfo so&amp;&gt;^ soo^ 
+
+cxto 
+
+
+
+
+
+
+steafc^ ejJrtsioaScSc^ ttoc&amp;fc. 
+
+
+
+eocftJ 
+
+rfecS 
+
+. edd w ftdrt* sjsc 
+
+
+
+wrtcJ 
+
+
+
+cJoSai 
+
+
+
+Wrt 
+
+
+
+warteto 
+
+
+
+isS&gt; fc SjBtio), erortdrl^ Wcitoocb 
+SaoFsJjj^ 
+
+isorfoDood 
+
+
+
+SoSrt 
+
+
+
+. eri 
+
+
+
+Sis. tfcSafc 
+
+CJ 
+
+
+
+
+
+
+. -^sri 
+
+
+
+10 
+
+soodo3be &gt;o^ $rto5o3e&amp; 00$ 
+
+
+
+?ss?&gt; 
+
+
+
+vo^tfrt 
+
+
+
+sraods^Drt 
+
+
+
+ert^sroci 
+
+
+
+rbooto 
+
+
+
+ro a *ictestooa 
+
+
+
+5^50^75^ Sto 
+
+
+
+sio^oio tl^sj^d drfrol^odood ^cfcsSolfficsSS: 
+
+Q T O^ 
+
+. stort ^sbsronrorl ssc 
+
+
+
+^iod^rd 
+
+
+
+12 
+
+
+
+^&amp;3rodc&gt; a^yUrtrWc^ic^egrt wtorbraron sSjse&amp;sbsfof 
+
+
+
+*3id3!Jg,e.ai* 
+
+
+
+oi/seris^ 
+
+
+
+rlortcxto 
+
+
+
+rfjsdr! 
+
+
+
+ji esJdb p5eDc^cb. Dc&gt;doi} 
+
+*$? 
+Ssb fc sSAo)do3Jofce 
+
+
+
+oodd 
+
+
+
+. 
+
+_P tr 
+
+
+
+. slQeoox&gt; 
+sSoed cio^sb , 
+
+
+
+13 
+
+
+
+14 
+
+
+
+en^o^o 
+
+
+
+ecb KS 
+
+
+
+. wdood 
+
+
+
+ioa 
+
+
+
+d^ddoso 
+
+
+
+doed 
+
+
+
+sSeroo&amp;rteb wrtab dorl^ aoato^j ' fccrtocb 
+
+
+
+15 
+
+
+
+16 
+
+S&amp;PIC&amp; 
+
+
+
+so&amp;tfSoto toil 
+
+
+
+&amp;,e 
+
+
+
+rtort, a 
+
+(31.3.93) *ba ^spsrld 
+
+
+
+rtort siab 
+
+
+
+eofttoa&gt;cteb. e 
+
+' sooddb 
+
+
+
+s&amp;oorf 
+
+
+
+17 
+
+
+
+oorid 
+
+
+
+) riorloii storirrfosd 
+10,000 
+
+
+
+cro. 
+
+
+
+rfbeoocS 
+
+
+
+40 *.^c. ^&gt;dd ^ rlorlab 
+
+
+
+18 
+
+
+
+
+
+
+rfbjSJrt sDrtow* 
+
+
+
+Q 
+? &lt;? 
+
+
+
+siwtibrfo^rfoi 
+
+
+
+stofi 
+oi) aSricb gd/serfb). 
+
+
+
+eioi 
+l 
+
+S53S 
+
+
+
+19 
+
+
+
+- 1 
+
+
+
+rtodo" cDo^ro)A rottS) tss^Drt s3e$ 
+
+
+
+afsigSe 
+
+
+
+20 . 
+
+*SJs3sfefc&gt; 
+
+
+
+stood 
+
+
+
+a* Ssrfrt^r! sra, 
+
+
+
+tdtsosiy Srt^odcus 
+
+
+
+eort 
+tort 
+
+
+
+zort 
+'sdtecfcsrort 
+
+
+
+21 
+
+
+
+oe^o&gt; 
+
+
+
+rbc|rl* 
+
+
+
+
+
+
+^odd 
+
+
+
+*3&gt;a53&gt;TOrtd 
+
+
+
+22 
+
+
+
+, 
+
+b 
+. rfart* 
+
+
+
+rboodtoftdb wsftfcki 
+
+
+
+, ^rfrt 
+
+
+
+4s 
+
+
+
+jro *Wci sort 
+
+
+
+e^dood 
+
+
+
+23 
+
+
+
+atess^rfe 
+
+
+
+sSedrt^o 
+
+
+
+dosbd^ 
+
+Q 
+
+
+
+sort , 
+
+
+
+24 
+
+
+
+. 
+
+
+
+sSedrt^o, 
+
+
+
+. essart 
+
+
+
+, waicJesiirt* 
+T 
+
+ed^od ^rrlQo 
+
+ro^cxtod esSy$S 
+
+. sobtf 
+
+
+
+25 
+
+
+
+3,rbrs)rt?b 
+
+
+
+sssri^ 
+
+
+
+3oarU&gt; 
+
+
+
+26 
+
+
+
+&amp;ic5ocfc 
+sSr^d irjgdcxb 
+
+
+
+radrteb, 
+
+
+
+
+
+
+-i 1 1 
+
+rirt^ 
+
+
+
+(sradrt^ 
+
+
+
+27 
+
+
+
+rt,aort9snsS. 
+
+
+
+rtrteS 
+
+
+
+i33aobrtb 
+
+
+
+d^d 
+
+
+
+^i .rt* 
+
+..... ffj 
+
+
+
+, s&gt;drs&gt;, rfd^, ^as^art^ -arara. 
+
+serifs e^SSoto &amp;$ 
+3oOoto3dD 
+
+
+
+. ero^aJ 
+
+33&gt; 
+
+cp 
+
+
+
+28 
+
+
+
+eo^rt^od 
+
+
+
+. ?o,ao|SD 
+
+
+
+29 
+
+
+
+*bo523?&gt; 3^ si|, 
+
+
+
+siib 
+
+
+
+. wrt 
+
+
+
+doo^)o!ooi) 
+
+
+
+d^doio 
+
+
+
+torlcxb 
+
+
+
+^de^crfo 
+
+
+
+. oiortd 
+
+
+
+32 
+
+arorte SJO^FO) 
+
+otorfrfsb; 
+
+
+
+)edr1^o; 
+
+d^ 
+ggert 
+
+
+
+aScrt, 
+
+
+
+siraeid ^s)o)dO osjrfb soerl 
+
+* 
+
+
+
+edo 
+^^ 
+sdosbd Sj 7^0200 
+
+
+
+2oert sjosbd 
+
+
+
+rfoto - dedcrorfo O^oDood ^oJbofeo^ - t?dc3o&gt; 
+
+
+
+sbsse^obrd erts&amp;rf 33 
+
+
+
+dc^aredcJoi) eJdAdeS). esfti 
+
+
+
+
+
+
+so|oird eQctesJSotod o 
+
+wdb 
+
+
+
+: sod: 
+; sod: 5soi)r?)d 
+
+, eodd sto^b so^rLrs u&gt;o, 
+
+
+
+^ssdrt^b 
+
+
+
+34 
+
+
+
+
+8 8 l T j J 
+
+
+
+sr TO). flfctorf ttateto ^tort *M tisxA 
+
+V . i o t)w 
+
+
+
+
+
+
+ssto5e . 
+
+W QQ CJU M 
+
+e^cito (jrft ao| Kii ^tocSrf M^. tpjfnl 
+
+
+
+
+iij) 
+MBoioSx SeartJod ^M tsrt^i^to ^do^dti. 
+
+
+
+
+
+
+
+t 
+
+
+
+35 
+
+- 2 
+
+
+
+edd 5r(d 
+
+
+
+sooa 
+
+
+
+dp 3 
+
+
+
+36 
+
+
+
+D, erfooron esScb Wc$i egofcraafeb. &gt;&gt; 
+
+
+
+roos" &gt;ocS&gt; 
+
+o^ 
+sisb 
+
+
+
+, 
+erf 
+
+
+
+2oo&gt;So!)ood 
+
+
+
+ra 
+
+
+
+. ?5 rt 
+
+
+
+e^o^ri^o Scfc sS&gt;eSci 
+
+
+
+37 
+
+
+
+sdbsbrt^b, 
+
+
+
+oiortd 
+
+
+
+abri 7|^d azpasirtefo 
+
+
+
+drsdofoe, 
+
+
+
+serifs 
+
+
+
+oiod^ stond rfo^d 
+e^Ort 
+
+
+
+tort 
+
+
+
+ood 
+
+
+
+38 
+
+
+
+wod, 
+
+a 
+
+
+
+33j&gt;ed 
+
+
+
+tort 
+
+
+
+35gcS?}d 
+
+
+
+eseo 
+
+
+
+e&amp;icxb 
+
+
+
+
+
+
+sort 
+
+n &lt; 
+
+
+
+to^rtdsid si^egpJ 
+
+
+
+39 
+
+
+
+sdrfofcos 
+
+* 
+
+sb^t^cribrcb doed ro&amp;art 
+
+
+
+40 
+
+
+
+c3ao&gt; ^eds ^eo&amp;ci So^d acfcde&amp; sfceoDorf "L 
+
+
+
+tort ^^o&amp;s^ aecsb. 
+
+
+
+eort^ 
+
+
+
+slrsdoo oirfrt 
+SD?)OO stood aSc^cScS) " tSe^rttf od 
+
+
+
+Seo aS^ertDicS. t^rtsioicSe roro 3o?Jdbr!^od 
+
+
+
+4! 
+
+
+
+. 
+eorraorlri^e 
+
+
+
+42 
+
+&amp;aaoo 
+
+
+
+sofctf s5* , 
+
+
+
+z. * 
+
+
+
+ao&lt;?r! saocbFoS sooc)rfDoorf". 
+
+
+
+ortsb'^rt*'wca!rt)iaS. 
+
+
+
+drs&gt;sfe$ 
+
+
+
+ji 10.42): 
+
+4ofcr|jCxto 6 sS 
+
+
+
+43 
+
+
+
+^oed, sfcofob, asartrs 
+
+
+
+, esdort 
+
+
+
+44 
+
+
+
+3S&gt;o&gt;oo 
+
+
+
+e^dpod 
+
+
+
+s^rlrs e^s^rt^ 
+
+
+
+. 3* 
+
+
+
+45 
+
+
+
+siuso^ ibrbsteS. &lt;^oa,oS)rteb e^dsi&amp;tfrf &amp;3dsb 
+
+
+
+rlrsodorl^rt 
+
+
+
+site* 
+
+
+
+?5esS,.c35njjSb 
+
+ssdrsrl^o, 
+
+
+
+Sdroort* 
+
+^o)03 odef^dcb. wd^cS d^3 
+zort - 
+
+A 
+
+
+
+46 
+
+
+
+W5SS) ^0)0 
+
+
+
+eor^ 
+
+
+
+47 
+
+
+
+ao,ao5e33ci&gt; ate^sfceeft 
+
+
+
+SesSoOoocJ TO^wtoacJ ^aiA 
+
+
+
+a 
+
+
+
+eor 
+
+
+
+
+
+
+^oSwoajjd aciocbcS^^eoto 
+
+^s)Frv^o, C3^^ 3 SJD 
+s^o^,d sJD?^&gt;3&gt;r1^ 
+
+sL 
+\ 
+
+
+
+48 
+
+
+
+Decfedddrf dddro^i tfdbsSraft 
+
+
+
+sort 
+
+
+
+sod: 
+%so|)rt 
+
+
+
+tortrt 
+
+
+
+49 
+
+
+
+wtaafi 
+
+
+
+sse; 
+
+
+
+50 
+
+
+
+six/so^ satoo^bd rfesfcirW ; 
+
+
+
+sS^rt*. 
+
+
+
+, rfo, 
+o 
+eo^, ^^oo, aoo?o, 7JcJ?J, 
+
+
+
+; t^sgddb 
+
+
+
+90^82$. 
+
+
+
+wrao 
+
+
+
+1687.5 e^ririTOfi ^eiJtS^dd ^vBol^odD ^rts^) t^ocb 
+18 
+
+
+
+rfccJrt* 
+
+_ 
+
+, siusdo 03^0 tocdo fp. sod^ 
+
+
+
+os^ort^o 
+
+dodri^o toodo sSjao^SrsS^x, e?cb 
+dodrt^o, dJ^c^dd des^d^ Oct&gt;rbr9sron s^od^ arf 
+l/4eSe 
+
+
+
+doddrf^ 
+wdb sjso ^js*d (^odd 
+
+
+
+52 
+
+
+
+*xJc&amp; aigrt* 
+
+
+
+2jo253or1 
+, wxrteb 
+
+
+
+eocto 
+, 3J 
+
+
+
+20,20^ gsod sSoed toodD aorte^ndbicS. 
+
+loodb TO,otorbic5. y,a|J os^ 
+
+
+
+53 
+
+
+
+siusdo 
+
+
+
+. t5dood 
+
+
+
+CS Cp 
+
+
+
+55 
+
+
+
+; 
+
+
+
+s&amp;&gt;od 
+
+
+
+I. s^osOg - ^EJJ&amp;S^ srar(rd ez^csbS; 2. 
+j 3. 
+; 4. 
+
+
+
+^o^racdbdodb 
+
+
+
+
+
+
+iradeJe 
+
+oA f-&gt; 
+
+"" 
+
+
+
+&gt;e&lt;&gt; 
+
+te^ttSsid c^o^ 
+
+rbdbsSe, 
+
+
+
+56 
+
+
+
+stood 
+
+
+
+, rtrtrf, 
+
+
+
+srossbdesi 
+
+
+
+s&amp;fe^d 
+
+
+
+rferfsSodb tftfocfcx^^cg^ 
+
+
+
+t?opS 
+
+oi)5)ri^o ? 
+
+
+
+57 
+
+. rfedrteb 
+
+
+
+tSesfcJci 
+
+
+
+J^cS. sSjs^p^b. ststosO 
+
+. c6fe v -^ 
+
+oo 
+
+
+
+58 
+
+
+
+s&amp;js&gt;dD V rtecfc 
+
+
+
+dLrssj 
+
+
+
+sScrtd 
+
+
+
+^oedDod 
+
+
+
+dpft* 
+
+
+
+^crfooe^b 
+
+
+
+eorl 
+
+r\ 
+
+
+
+59 
+
+
+
+qj T 
+
+
+
+y,3o|&gt; ^^A) 
+
+
+
+62 
+
+
+
+
+
+
+sj3,&gt;F-&amp;dcb. &gt;3o&gt; 
+
+
+
+63 
+
+
+
+. edd 
+
+
+
+aoetsrteb 
+
+
+
+
+
+
+asocb sl^doo 
+
+
+
+64 
+
+
+
+sbrb 
+
+
+
+cxted 
+sSroao 
+
+
+
+^rsort^od 
+jg,d sto^ 
+sSbsirai. ararl C3e&gt;^doi sicS 
+
+&lt;&amp;/ * 
+
+
+
+rfcfo^o^b. 
+
+
+
+65 
+
+
+
+s&amp;ed Sooc^d s&amp;eel/soddo^ sSerts^A 
+
+eS) &amp;s 
+
+I/sod 
+
+
+
+
+
+
+eor^ 
+
+
+
+todoi^dood 
+
+
+
+66 
+
+
+
+aoe$d&amp;; 
+
+
+
+. 1945 d z^odj 14 do^ 15 dod: 
+rbdbrt 
+doood 5.30 ^ 
+
+
+
+e 
+
+e 
+
+
+
+xi 
+
+
+
+S "Brighter Than Thousand Suns"). 
+
+dgrlood wafjW wrldronid 
+
+' w,3o|tj. ^rtdo^S) 
+
+
+
+w,aojk. 
+
+
+
+e^ort a^^n^. t?c^ 
+
+
+
+^gb esteSti i^i). 
+
+eroaJcJcsart* edc^ 
+
+
+
+dfifsfefc J&amp;Srorf csaasscs ezS^t-t^ zbotfoofcocfc t?sA *. 
+
+^^iadAw**). PSb OTOU3! *^,*?^ "-5S 
+^* ^&gt;aMb ^ txd*. ta^ **# W* 
+
+
+
+68 
+
+
+
+stood eftft ^o^ri edsb 
+
+
+
+sg,dd 
+
+
+
+e^dorl 
+
+
+
+aa 
+
+
+
+e^rt wrfcS ^o^daod S^rtdod 
+
+
+
+y,so|i) 
+o 
+
+si* a^rt qo rbrart^od 
+
+
+
+tefc. esS^rt 
+
+
+
+? 360 xcSnsr--:, 
+odd :)?e3 *^ 
+
+
+
+
+70 
+
+
+
+siooroft 
+
+
+
+*.rG)rtde 
+
+
+
+rfgsSSroto 
+
+
+
+siocb^rad ifcS tf osodb esj* 
+
+
+
+s0o)oi) 
+
+
+
+Q^dode 
+
+
+
+, ertorod iraort^rfj 
+
+? eg t 
+
+
+
+aoJaoOdci. 
+
+
+
+sSedrte* 
+
+
+
+i. ci?^ d^ri^b ^ 
+
+
+
+. Bcsto 
+
+
+
+71 
+
+
+
+^rtdoirf 
+
+
+
+dx)c)oo 
+
+
+
+73 
+.5 
+
+
+
+
+
+
+ti^zicJ^s eroaJ 
+
+
+
+eorad 
+
+
+
+
+
+
+74 
+
+
+
+tood. 
+
+
+
+wsrad. 
+
+
+
+. 
+
+
+
+sort 
+
+n 
+
+
+
+cxted 
+
+
+
+odd 
+s^oDort 3oeS&gt;d?&amp;: **L 
+
+
+
+olrserl 
+
+
+
+.oSJart; 
+
+
+
+75 
+
+
+
+76 
+
+
+
+$rte$o3fc$a^ 
+
+
+
+77 
+
+^ $o&gt;&gt;odde 
+
+Ararfrbrod. 
+
+
+
+eoAsi 
+
+
+
+78 
+
+
+
+^rtsioirf 
+
+
+
+14. 
+
+
+
+
+
+
+.aS^ Sodde 
+
+
+
+79 
+
+
+
+srf, 
+
+
+
+Q -0 
+
+
+
+sJTbrt^rLrs s&amp;aorato aiwaoci ^^dD so2^ e A^sJc^SJ Wt^icSoci 
+
+
+
+Wrt 
+
+
+
+^zral 
+
+
+
+rtrarl^b 
+
+
+
+, 
+
+
+
+80 
+
+
+
+'flci r-s _o 
+
+
+
+. eosfrftto e3tf&lt;otertoc3grt, roc;, 
+
+
+
+tpsrtrt^orftf 
+
+
+
+enxjoaoaaaSs. 
+tood. 
+
+
+
+Aso^rdedrf 
+
+
+
+ded^rt* 
+
+
+
+rtd, 
+
+
+
+^dod Bpfeta^ ^^ -^ 
+
+
+
+3ojsert&gt;3c5. 
+
+
+
+world 
+
+e^odo 
+
+
+
+- 81 
+
+stood rooorhto ^fS^&amp;socrort ^G^Q&gt; Sp&amp; s^do^rofi ^ddj^oQrl 
+
+
+
+5306, 
+
+
+
+82 
+
+
+
+fcotf rartodcfc. 
+
+
+
+aSert 
+
+
+
+
+
+
+s&gt;ede 
+
+
+
+SD^)OX) ^o s^o^orl 
+
+
+
+3ojs&gt;o&gt; 
+
+
+
+83 
+
+dbed 
+
+
+
+tfcirt 
+
+
+
+g4 
+
+
+
+deport 
+
+
+
+estexxb^ 
+i 
+si* 
+
+
+
+t*&gt;0* 
+iteo. 
+
+
+
+aafccdb 
+
+- 
+
+
+
+. 
+
+
+
+, dri , sS33o?d., 
+
+D g) 
+
+edb 
+
+
+
+ero^ojborf. 
+
+
+
+85 
+
+
+
+sorf?Sa5b 03^ .Do^rss^ rb^oite^ 
+=3e o^) edb ^oc&gt; dbocab 
+
+
+
+86 
+
+
+
+aSJaodbiCcS 1 
+
+
+
+tJoc) v^e, ^ecSoDooron ?JJrSoOoori 
+
+
+
+5^*rt&lt;Sjs&gt;oarte 
+
+sSo 
+
+
+
+87 
+
+
+
+ta ci 
+
+
+
+So'^D 250^0) dQSj^rf^ itfrf*. ^^e SO&amp;S 
+
+
+
+sort wtf&amp;rSroftdbd strife) 
+
+
+
+a^drtocb ^ro^^cb 4s soo3 
+e^cS) ^d&gt; 
+. e^ocJd . 4,320,000 
+
+
+
+x2000x30x 
+
+
+
+88 
+
+
+
+dJsti 
+
+
+
+sort 
+
+
+
+en&gt;3teJesSirtert 
+
+
+
+89 
+
+
+
+a&amp;rtert 
+
+
+
+, Ssi. 
+
+7 . e/ 
+
+^e^rt^o ezfJra) so^S 53o2SScS^eocxib^DrfoqS s3 drtoraft 
+
+
+
+sofa* 
+
+
+
+sl^doo fad3^oo)d TOft rtorloi) 
+a 
+to^rt 
+
+
+
+. rtort 
+
+
+
+91 
+
+- 6 
+
+a3&gt;Q&amp;d -; 
+
+
+
+, atps, Skoci, ^rfesS siab 
+
+
+
+sbab 
+
+
+
+sdcidcS). 
+
+
+
+92 
+
+
+
+. es^dodd 
+
+
+
+"^e^ y,3o5es3c3e, (Ds^ rfedrfe 
+
+
+
+Reel) 
+
+5 
+
+siusrfdo 
+
+
+
+aox) cJcp^ori 
+
+
+
+93 
+
+
+
+_ocr&gt; 
+
+
+
+Q -o 80 
+
+
+
+94 
+
+
+
+95 
+
+dbo5o!)00d 
+
+
+
+. ^odoDood 
+
+
+
+. slscxb 
+
+
+
+96 
+
+
+
+, en^sSrfesS^rS^D sssrlra cxtsw* 
+
+? rsru 
+
+
+
+esdd suso^ e^sjrf sdcSjrocisJc^ ?irs&gt;ec}o&amp; 
+Bsdbrt 
+
+
+
+^rarttfe 
+
+
+
+97 
+
+
+
+" rfoeo qtdb dJrf: 
+
+
+
+
+
+
+gioSboeo d^ci Stfcfc&amp;aoab 
+e-t?ndo esScS) ^^jserfo 
+o&amp;jc&gt;edOo&amp;d ^^dfiji cSjOhtf TJo^o^d ara^dotf . 
+
+
+
+asdrl ^cSow ^ s&gt;rt ? sbdb-dcxto sS)rt eraisb. 
+vo^cirodcS ^co&gt; Ae 
+. ?i)tibeart zb ^sgrortd 
+
+e75oS&gt;ecraddJ!) 
+s^c^^e*. sl^d 
+dabafc sfcjaoteS? ^oo^^i 
+
+orad s^)^^ wgQdDS 
+
+to^rt eoorort 
+
+
+
+"&lt;^Sdort 
+
+
+
+98 
+
+^ c3j*&gt;e&gt;&gt;od 
+
+
+
+sssrlrs 
+
+
+
+?jsdd s30c)oo 
+
+
+
+99 
+
+assart aoe&lt;s&gt;d?i&gt;: "rfc^ &lt;je&amp;o&gt; 
+
+
+
+"t&gt;o 
+
+s&amp;oorf 
+
+
+
+100 
+
+
+
+sirisrte 
+
+.z^steb 
+ra^sso 
+
+s&gt;?3r1 
+
+
+
+5o^o) 
+
+
+
+sSoed 
+
+
+
+101 
+
+
+
+ated 
+
+
+
+- 6pcor1^o, 
+
+
+
+doood 
+
+
+
+dodolx^o 
+
+
+
+102 
+
+
+
+?5 Sesstorfrf ro&amp;rlQ5 s&amp;ed 
+
+
+
+six^ob 
+
+
+
+rtrsrt^o - 
+
+
+
+sod. &gt; s^otoosa ^020 
+
+
+
+sbab 
+
+
+
+- 
+
+a c3 l cJ 
+
+e^fctete 
+
+
+
+s&gt;r1cS 
+
+
+
+. 4? oeioten 
+
+Sc 
+, 4? 
+
+^e^r^co ^Sr1^&lt;DoS asro^ 
+rt,aS^ 
+
+
+
+4^ 
+
+
+
+SerfoSo 
+
+
+
+ed ^ 
+
+rod S)^o)rt^TOn ^rido^c% ?J 
+
+tortnrf 
+
+
+
+103 
+
+
+
+tortdo 
+
+
+
+104 
+
+
+
+cO eJ 
+
+
+
+: "gj,e5ol) 
+
+
+
+oted Jjsoddoixjs ^od epe^d 
+
+
+
+SrscSeJe oJo^ 
+
+04 C*5 C*A 
+
+
+
+nso. 
+
+
+
+SoSrt 
+
+
+
+
+
+aerf: 
+
+
+
+slostiTiart 
+
+
+
+ifato, 
+
+
+
+105 
+
+
+
+, 
+
+G? 
+
+Ifsopddo, edtiejs ^risSoiart $*3gps$n$ 
+^ ?5C*)Soqi stortr 
+sodO^ 
+
+sl/aerieo 
+
+
+
+rbra. 
+
+^ 
+3530 
+rod^oiJDrbd ^Dto dD^) 73df\ ss 
+
+O-JB aJ -c 
+
+sofa* 
+
+
+
+106 
+
+
+
+oe3o)0. 
+
+
+
+sort 
+
+A 
+
+3oe&lt;?ci "ero 
+
+
+
+?5es3oi) 
+
+
+
+107 
+
+
+
+
+
+
+sSera 
+
+
+
+108 
+
+
+
+tortofc 
+
+
+
+rfjsdcxto ^s^^ ^dcrarl oradb 
+
+
+
+. 3o3?lfS&gt; 
+
+
+
+eoocrar! 
+
+
+
+djsdoio 
+
+
+
+109 
+
+
+
+s&amp;ed 
+3DCOooi&gt; ^ 
+
+
+
+. Soerl 
+
+
+
+olracrt 
+
+
+
+1 1 
+
+
+
+s&amp;aSrt^rt 
+
+arorto-^sld 
+
+
+
+De3o) 
+
+
+
+zJdroCororbsScieSj i ^odb 
+
+
+
+^od, dJstfoto 
+
+
+
+djs&gt;do&gt; 
+
+
+
+srort 
+
+
+
+s&amp;e^ oirarlrl^od 
+
+
+
+gjcSb 
+
+sood 
+
+
+
+ded oevBobc^rido caoeo eorl 
+
+o r\ 
+
+
+
+erfo^d ^rldo^^ djsdrl 
+
+
+
+desod tor^ 
+
+
+
+112 
+
+
+
+^orlrt^o 
+
+
+
+
+
+
+37&gt;ara^)?f ^erYo 
+
+
+
+^b^rf sood 
+
+
+
+113 
+
+
+
+i^pscfco,, sss 
+
+
+
+*^edb&amp;ab. 
+
+
+
+ro O 
+
+
+
+1 14 
+
+
+
+dfs&gt;doraA 
+
+
+
+oo 
+
+&gt; 
+
+
+
+to^crarf 
+
+
+
+c&gt;?jb, 
+
+
+
+aS^rsrfe 
+
+
+
+^oed. ^&gt;rts&gt; asix a 
+
+* e/ 
+
+
+
+sortosb sttSrt* 
+
+
+
+207^ 
+
+
+
+y a&gt; 
+
+
+
+I 5 
+
+
+
+733^3^ 
+
+rbooiso 
+
+
+
+25oic5, - 
+
+esodd 
+
+
+
+edpod 
+
+
+
+16 
+
+
+
+rfesSoifi S 
+
+
+
+. &amp; oe^cxten 
+
+
+
+si)* sJ^tfou so^cb 
+*fccfefc. ejiSS) e^^osstf sSncS^ ^rfrt Sesto 
+
+
+
+EBW , EteaA 
+
+
+
+117 
+
+- 8 
+
+5 
+
+
+
+(sl^doo 
+
+Frf?SoC) ^ 
+
+sixrssidb 
+
+
+
+OTH 
+
+
+
+srarto ^sjosSra^ddb. &amp;&gt;ert 
+
+
+
+118 
+
+
+
+eorl^ e^dorl 
+
+
+
+ssszteSrofi 
+
+rS 
+wsSrib 
+
+
+
+. sesb Sir. 
+aoJbo^ei&gt;. 
+doed, taDDsi)^ e^djse^cScdb scxbo^ci. scoto dbd,?3oc) 
+
+
+
+, ^ c c. o , 
+
+
+
+eddb 
+
+
+
+119 
+
+
+
+ssoe 
+
+v -o 
+
+
+
+120 
+
+rtrtefcte ' c&amp;aecsbsSoi 
+
+
+
+
+
+rtoak tort^ 
+
+
+
+
+
+
+toart^od soc&gt; 
+
+
+
+eroside^ 
+
+
+
+121 
+
+
+
+^rtcrfxo 
+
+
+
+wrtab 
+
+
+
+, 
+
+
+
+e^odb ej^cOo), sodb ^dbdb 
+
+
+
+csgdrl^o 
+
+
+
+. dJsdoto ^sStf esortdfti 
+
+
+
+122 
+
+
+
+orfe 
+
+
+
+sS)3b 
+
+
+
+otes^rfe 
+
+
+
+123 
+
+
+
+5e&gt;&lt;xbo 
+
+
+
+woqteJaod 
+
+
+
+s&amp;ed ^JO^^D. dqSd sSoed 
+
+_0 ' 
+
+) 
+sodb 
+
+
+
+^oedd 
+
+
+
+dLradtab db?d ^sA^ rbras^ 
+ssoo , 
+
+
+
+aodb 
+
+
+
+124 
+
+
+
+steed 
+
+
+
+rbDcxter1) 
+
+
+
+ci^doo 
+
+
+
+rfedrt^o 
+
+
+
+16.23 
+
+
+
+. socto &lt;D^d esrfafcSrisb 
+
+^ 
+
+ss^S - 0020 
+3oLa*rtocS - aj, 
+
+
+
+125 
+
+
+
+roe3c&gt;ood drsdoiu 
+
+
+
+, 
+
+erf =&lt; 
+
+
+
+. rf^doio 
+
+
+
+Sod 
+
+
+
+sort e?5 
+
+
+
+126 
+
+
+
+. rodd 
+
+
+
+sto&amp;cfcb. 
+
+
+
+odtesS TOS..93cis^ ^orf tsrfd sSbed 
+
+
+
+ocbd^ drad. 
+e^ s^oters 
+
+S^^cb s^do^^ rfrtdd s&amp;ed 
+
+
+
+. (dp* 
+
+
+
+8.6. ^tdD iDedsScSi S*bs3arf cxterf 
+
+
+
+rowrorfodbtib 
+
+
+
+aofiofj 
+
+
+
+127 
+
+
+
+sofci ; ^5e*d?!, 
+
+
+
+^odb, 
+
+". (^odo 
+
+
+
+sodo ^drt^? wd &gt;odo 
+
+
+
+128 
+
+
+
+eortofc 
+
+
+
+wart 
+
+Q 
+
+
+
+. eo&amp;fc 
+
+
+
+Soorf 
+
+
+
+AftocbcS a^c^ AcS^Arf s5o*ai) 
+
+
+
+129 
+
+^e&amp;JnsdsjsndD e%&gt; sof rt Mobocftos&amp;ds. 
+
+
+
+aSc^dsb : "dp* 
+
+&amp;3o^i3^rt^ 
+&lt;aozcoraA 
+
+oo&amp;3 c^^rooS3 
+tiedcdb 
+
+3SDaScb So^rt TO^rart^rf?" 4? 
+
+sioed - 
+
+
+
+e^odo enjaSidraOTA ert^sisrto^rf. 
+
+
+
+do* 
+
+
+
+^ort,2o). 
+
+
+
+130 
+
+dfca?tecjpJ. 
+J 
+Scfi&amp;afcJ. kerf edci) Jtaa 
+
+
+
+. stodfisS 
+
+oadd ^j^dsb ^dc^ sSra^^^ro 
+
+4? 
+
+
+
+erfoSd 
+
+
+
+-o is 
+
+
+
+e^dd d^od zj,a! 6 |ipn 
+3o|3ed?)rio^oj5 criro 
+S^hdd wo^sfc ^clro^cic^^eSc^db dc!oirasdod?i&gt;. 
+
+
+
+edd 
+d ' 
+. ^ddodro 
+
+
+
+131 
+
+
+
+"^E^' Sod: 
+
+
+
+aojs&gt;dfc3dx 
+
+
+
+oOrt zooddo. 
+^Sj 
+d zor^ 
+
+&gt;dbd&gt;rt 
+
+
+
+oj^s^de 
+
+
+
+132 
+
+
+
+. |&gt;,eaoOaS 
+
+
+
+. so&amp;i 
+qrioaici 
+
+IT \_^ 
+
+
+
+
+
+
+sood 
+. essteb ^ 
+
+
+
+rtocxbS cirfddb. ^SriaSaeS 18.65 
+
+
+
+133 
+
+
+
+etioDoocj djsd ^DobosddodD, otodjs wsfej 
+
+
+
+jJrtsSo3teJ 
+
+
+
+t^ocb, 
+
+
+
+134 
+
+
+
+siiigpdb &amp;S ?J^)tibd sJO^^oSi zo 
+
+
+
+035et) 
+
+sdcSd*. 
+
+
+
+135 
+artrsiScS 
+
+
+
+. assort, oi^sgrf 
+^ 
+
+. djsdolx) 
+
+. ^sraogji, ds3^, 
+
+rfo^d 
+
+
+
+OSD, 
+
+
+
+rori.ocbdb 
+
+&amp;^oc^ ifsocro^dob. e To 
+sssrl^ 
+
+
+
+
+
+
+/ 
+
+
+
+, s&amp;edb 
+
+
+
+s&amp;ab 
+
+
+
+). escStf 
+
+
+
+ajsod rfepcxto 
+us?5oJjt)oart ^ adbsro^.S axj 
+
+
+
+&lt;Dioxio.fc3.db. 
+
+
+
+d&amp;S&amp;ddb. 
+
+
+
+137 
+
+
+
+sissirsSocl) 
+
+
+
+^do&gt; 
+
+
+
+138 
+
+
+
+s&amp;ab 
+
+
+
+(10) 
+(11) 
+
+
+
+tortpSi 
+
+
+
+2oer! WEJcSc&amp;xcSci): (1) 
+^e^oxb^c^ (2) 
+(3) 
+
+
+
+(6) 
+
+s^rl^oi^s^d^s^ci) (7)tf rtsSoaSeScv^ribO^b ^eJrr1^c^t? 
+(8) 
+
+
+
+(12) qSsS)rrt,oqJrt^e&amp;i toc&gt;s^c&gt; (13) 
+(14) xij*&gt;&amp;S 
+a^ptosScto (15) 
+
+?iJ*plQcrt 
+
+
+
+stood 
+
+
+
+s^rondb, 
+
+
+
+139 
+
+
+
+rtors&gt;r1$oro&gt;n 
+
+
+
+, 20300^ 
+tog,, 
+
+
+
+-e^s^db 
+
+
+
+otes^cSe 
+
+
+
+140 
+
+
+
+
+
+
+5, ettp^ofo 6, ts^si 17) ^ ^cSe^r1^o% arocdb 
+
+
+
+141 
+
+
+
+rtodb. srios^rfes^ e^ri^o^ essS^d. es$?&gt; ways ctosrod rtodbsto. 
+
+
+
+3&gt;o ^oSoio rfaob escort 
+
+s)drs) 
+
+
+
+
+
+
+tort 
+
+
+
+sort 
+
+
+
+142 
+
+
+
+. afc^ &amp;&gt;oDci 
+, xfcWS srorU 
+
+
+
+^orfcrfo srfbdrad 
+
+
+
+sofcS 
+
+
+
+143 
+
+
+
+e&lt;&gt; 
+
+- 
+
+
+
+d&amp;dctod 
+
+
+
+cSjadotftoOrt* 
+
+
+
+eo^rt^o 
+
+
+
+ttc5J&lt;rfc3*siob 
+
+
+
+sbW 
+
+
+
+. e 
+
+
+
+^oedrfe 
+
+
+
+ttato 
+
+
+
+ftfrtrfo n c 9.4, 
+
+
+
+144 
+
+
+
+eoftrtoftictoe &lt;3o&amp;s3drfjs&gt; 
+
+&lt;H 
+
+J 
+
+era.** 
+
+* &amp; &amp; 
+
+
+
+tortocb 
+
+
+
+drstfak ark)^ oteert 
+
+
+
+20^ 
+
+
+
+rorlrs 
+
+
+
+
+
+
+0-fl 
+
+drsdoio 
+
+
+
+)OSpi&gt;&lt;5 
+
+("*&gt; U M 
+
+2.1.14- " 
+
+
+
+Q -t&gt; 
+
+
+
+145 
+
+
+
+aioagarar 
+
+
+
+2id^d^?t5 stoodododb 
+
+
+
+SrtddO stodbTOcSrf esd^ dbro?! 
+
+
+
+,10 
+
+
+
+146 
+
+
+
+j s&amp;j dtfofcoidr ^ertid. 
+
+J5 -0 J J 
+
+
+
+sSrfcfctfrte 
+
+
+
+03cbrt* icsto si^orirt^o 
+
+
+
+otode d/^ci ctorfrt* 
+
+
+
+e/urtab 
+
+rtortoi 
+
+
+
+sdozbt^ aedD 4? 
+A*. 4s rfaoix) SosSSoi ^Jod *js^rf. rtora 
+
+
+
+Sedroft 
+
+rtoro 
+
+
+
+rtortcxb 
+. w 
+?^rid 
+
+
+
+(1) 
+
+
+
+147 
+
+
+
+rfortcxsbo 
+
+
+
+rlort 3oDt) a^ert)^ s^c ^oartja rlorQ 
+
+
+
+. ssb^d ?oo5g,o3o)odb 
+
+
+
+(2) 
+(3) 
+
+(4) dsS&gt; 4 * 
+
+
+
+148 
+
+(5) 
+(6) 
+
+
+
+s^rtsb, 
+
+
+
+cOo^o 
+
+
+
+eort^ 
+
+
+
+(!) sstfj 
+
+(4) ros (5) ^(c^s (6) 
+
+
+
+(7) S^ g cwto^rt. &lt;tf rteto&lt; 65, 1 
+
+
+
+3 ^ 
+
+
+
+149 
+
+
+
+5sasi&gt;?j|JE5 stead 
+
+
+
+aoocS 
+
+
+
+zbif 
+
+2) 
+
+
+
+stood 
+
+
+
+' 
+
+
+
+33:*- rf ?&amp; 
+
+
+
+a&gt;5ssordb. ^eodb 
+
+
+
+oibs^d^^art 
+=SocSJo*cftto : 
+
+
+
+i cxtosi)os2sai1 
+
+
+
+eoo&gt;&amp;ddb 
+
+
+
+151 
+
+
+
+s&amp;ed dte 
+
+
+
+. ti^aSetibsstf ^^ 
+otodJs ^ 
+
+
+
+ertssscS ?l^ 
+
+
+
+
+
+
+, epess^ to 
+
+
+
+152 
+
+
+
+
+
+
+, srlrteb 
+
+
+
+
+
+
+dtos&gt;d)cka3 
+
+
+
+en)3bor1 
+
+
+
+oraortrtrorfsi;5. 
+
+
+
+srorlrs wai." 
+
+
+
+eorl^ 
+
+
+
+153 
+
+
+
+gprt 
+
+
+
+asart 
+
+
+
+' (^^0)^020 
+
+
+
+154 
+
+esSSrt 
+
+
+
+oe&amp;db so&amp;g sJoedrte esftb 
+
+
+
+rtstoS 
+
+V -o Q 
+
+
+
+^rioo 
+
+
+
+C3 
+
+soaoo 
+
+
+
+4 
+tig^rt 
+
+
+
+wd s)?SoDoorf Soj^ertO." 
+
+
+
+doror 
+
+
+
+j 56 
+
+
+
+sdbzia 
+
+
+
+tfasi^art 
+
+
+
+157 
+
+
+
+ragpitib 
+
+
+
+^orf,cJcoSc$) ^DOSJ^ ftfa*j&amp;od 
+
+
+
+158 
+
+rto^drdo, s&amp;dbidb 
+
+
+
+^dbd 
+
+
+
+atek 
+
+&amp;, 
+
+epedroo so^ddci). ^s^ t?&lt;?^3^ rbob^rt 
+
+
+
+, cxted soSo^ ^osj^clr^ 3ojs&gt;o0dd 
+
+
+
+oSed: 
+
+
+
+Ssial 
+
+
+
+TO 
+
+
+
+e^drt^od 
+
+
+
+Lo 
+
+
+
+d^orad o&lt;?&amp;o&gt;), 
+
+
+
+ejJrtsSie ^xbrferoob) 
+tsort/S 
+
+
+
+1 60 
+
+
+
+c^o6rlra 
+
+
+
+essrt^ 
+
+
+
+- 
+
+
+
+A* 
+
+
+
+o^rt 
+
+
+
+" 
+
+
+
+wert ?roA 
+
+
+
+. da?t5oic erfort 
+ood sio^es|2&gt;d5oso ^Sdo w 
+
+
+
+e 
+
+
+
+wdsb. 
+
+
+
+162 
+
+
+
+5?*, 
+
+
+
+eo^rl 
+
+
+
+ciperfoi 
+
+
+
+. cJ^^octo ^ 
+
+
+
+..&lt;y^ d&lt;) 
+
+
+
+s&amp;ab 
+
+
+
+^cxfeo^d 
+
+eoS cJfi ^Tte ^e^otortd 
+SeddcD waidcsSSrt* 
+
+
+
+
+
+
+edood 
+
+
+
+
+
+
+addste)3SJ ^e 
+
+
+
+Qj 
+
+srU 
+
+
+
+, 
+
+
+
+Socket n*. c3?s5 
+
+
+
+. e^dd ^cdr^: 
+
+
+
+^^dd^ ^od,Srt s 
+
+
+
+164 
+
+
+
+sSer? 
+cSoiascss 
+so fc* 
+
+
+
+oJk 
+
+^ddodjs Eoo^o&amp;rondcb. djsdrt djssj, ste, 5^rs 
+
+O . . . ' -o 7 oJi 
+
+
+
+sto^cxto 
+
+20^ 
+
+
+
+e^r! 
+
+
+
+165 
+
+
+
+assrto 
+
+
+
+c afcicctasgfJ. 
+
+
+
+. wnedcfc 
+
+
+
+wrto 
+
+
+
+166 
+s^ sgdbrteb, ScSsb 
+
+
+
+. 4? 
+
+
+
+, 3so!)o, 
+
+
+
+*ys8as&gt; 
+
+
+
+eodd 
+
+coi aswto 
+
+
+
+rt.rartrt 
+
+
+
+t^ocb 
+
+
+
+s&amp;rtei 
+
+
+
+olfs 5 e, 
+
+
+
+: "L. 
+
+
+
+167 
+
+
+
+168 
+
+
+
+srfdAoi 
+
+
+
+oirad^ 
+
+og a^rt's es5do : DrL's 
+
+fcert aS&amp; 
+
+
+
+169 
+
+
+
+^JSOOD 
+
+
+
+&lt;Deo&gt;F-^&gt;od 
+
+
+
+&lt;dofc3cSe s 
+
+
+
+cSdb. e 
+
+ero^rtr, 
+
+
+
+170 
+
+
+
+fc ^^crf w3$atoftert 
+
+^rf 
+s&amp;rfo 
+
+
+
+2pw3b sidDScJoeo desSSrt* fc 
+
+
+
+sfcfd sSassSdb s^^dod^ ssosbo^, 
+
+
+
+sg^,doc&gt;cJ Soeegci, wSbsogd, Sorf s&gt; araj. 
+
+
+
+
+
+
+^020 
+
+
+
+171 
+ssrt3ci 
+
+
+
+de3d e^od^r 
+
+3sg,do2?7i)^cJabo20 
+
+
+
+cS)850rtjaocJ 
+
+
+
+(i) %drofidjc&gt;^d3 (2) 
+
+(3) wfc^sic^ ^ac^^ddo (4) 
+
+(5) ^sJD2bd ^Toori^od ^dtODd3C 
+
+(6)^ drodoadosrorl s^Oclis^rt gSjscrtdracaJdD (7) Sjse 
+
+(8) ^c3d SsS33S75 ^rsddD (9) e52b^atendDd 
+
+o (11) 
+
+
+
+(13) 
+(14) 
+
+oD^^ddD (15) 
+(16) troo^o^ srocSrt^ ^^Qjbrf d^rl gSjaert^cSci (17) 
+
+(18) hoofed 
+rlosped^n ^^do 
+
+
+
+eqJro 
+
+ro do 
+
+xldoo^dO, 
+
+
+
+172 
+
+
+
+^rtjs storf.rfcctoroftdos? 
+
+
+
+elrsdbrt^sn 
+
+
+
+worort ^^ ^o^sgrlrsocsb 
+3w SosSSjgptoSj s)dD^d^ &amp;&gt; 
+
+
+
+173 
+
+
+
+&gt;odb sSeedcb. 
+
+
+
+12 
+
+
+
+sSer 
+
+Q 
+
+
+
+?! ssart^ 
+
+
+
+174 
+
+
+
+desoci|drtet&gt; 
+
+
+
+elated 
+
+
+
+25 e^rt^rl 
+
+
+
+rbra 
+
+sorto3 
+
+
+
+cxtortd 
+
+
+
+
+
+
+175 
+
+
+
+SesSo.^risSoirf ^ 
+
+
+
+SesS, e^oto, 
+
+
+
+eoqi 
+. rl^e^atodb 
+
+
+
+Sedo) 
+
+cxiraosddQ^dD 
+
+rt dbed sSe^d sodo 
+
+
+
+dbo^)oo dboodododo ^sbs^o d^sb do^d^db 
+
+
+
+
+
+
+176 
+
+
+
+eortc* 
+
+
+
+sosrlrs 
+
+
+
+cxbs^sfecra^cxbrf , 
+
+
+
+20,35^^0^535^35^ 
+
+
+
+. e^orf 
+
+
+
+^ae 20,353,0^ 
+
+
+
+4? 
+
+
+
+177 
+
+
+
+cxtos^rfe ^SJFSO^ ro^b TgsccbadD^o^ sScfefeb, 
+
+
+
+178 
+
+tort 
+
+
+
+SgjSort 
+
+
+
+sfcab 
+
+
+
+. 
+
+ro / &lt;&lt; e/ 
+
+^rfe sjD^prar ^^rf^SoJtedDod fc'ert 
+
+
+
+Q3o&gt; gj^tf 179 
+
+
+
+otosj 
+
+
+
+rfjsdoio 
+
+3js&gt;e9?oGB. 
+
+w W 
+
+eroded." 
+
+
+
+rbo 
+
+
+
+: "e^dood 
+
+
+
+55dOod 
+
+Q 
+
+
+
+I go 
+
+
+
+^0200^ 
+
+
+
+rocirt^rt, 
+
+d ^&lt;^b^c) 
+zSed^d qSo) 
+
+
+
+181 
+
+
+
+. ri w Tj^Qod e^octerf^ cgsol/socto 
+
+
+
+s&gt;ed 
+ewrbdbrt^ocS 
+
+
+
+wsSort 
+
+
+
+3iocSodbo 
+
+*C 
+
+
+
+1 82 
+
+
+
+sort 
+
+
+
+sixrso^ 
+
+
+
+escort 
+aea oad raSrt s toacfeb. 
+
+
+
+edd ^oedrt^o 
+
+
+
+. s.e ^ aids^jirt 
+
+w e) co fc 
+
+
+
+y 
+
+\ 
+-, 
+
+
+
+dototo&amp;se edscd 
+
+
+
+183 
+
+
+
+
+
+
+
+
+
+, syi, ?3^ ^^ , 
+
+d^, 
+
+
+
+
+
+
+^ w^draft 
+
+
+
+, 53$ 
+
+
+
+, rorf , 
+
+
+
+186 
+
+
+
+Sort, 
+
+
+
+eorf^ 
+
+
+
+188 
+
+
+
+sSer! So 
+
+sib* si* aio.ai3Scj.3tf sl*rtjsoort 
+
+
+
+srortrs 
+
+
+
+189 
+
+
+
+
+
+
+190 
+
+
+
+
+
+
+, a3,ei 
+
+" 
+
+
+
+
+
+
+
+
+
+^ Srfrt aio^ sici 
+
+
+
+-0 cj 
+
+
+
+191 
+
+12 
+
+
+
+
+
+
+ix ^ 
+
+
+
+^rtsSoiSrt wa, siA, 
+
+
+
+rogisrocJ, 
+
+
+
+e&amp;a 
+^cxsboddo 
+
+
+
+ecgpocJ 
+
+
+
+192 
+
+
+
+^o)o 
+
+
+
+ScSofcoad 
+
+
+
+cdbgcb, 
+
+
+
+arorl 
+
+
+
+s^rtrt^o, La 
+
+
+
+e^dd 
+
+
+
+dd .( toc eo stoocS 
+
+
+
+13 
+
+
+
+194 
+
+srarootosk s3Ja*Wo&gt; 
+
+
+
+
+
+
+cl^tf oSbocb (dfp 
+
+
+
+wsigS 
+
+
+
+sgertozo sort 
+
+
+
+edsrt 
+
+^rtdo^rfD rteosesart 
+sic ft 
+
+
+
+. sasfc* ce . ed?i sjgdb ^^Frf, 200 
+
+cxtorid ' 
+
+
+
+195 
+
+x&gt;dFOod 
+
+
+
+3&amp;;&amp;fii&gt;e33 
+
+
+
+196 
+
+
+
+cxto 
+
+
+
+doorad 
+
+
+
+e?^o!)oo)ddo. 
+
+
+
+edd dbed 
+
+
+
+soO 
+
+
+
+197 
+
+
+
+
+
+
+eS 
+
+
+
+t?dc5odct&gt; 
+
+
+
+ioao&gt; ctozJsfc^^tesrt csseSsStfegiJs 
+
+
+
+aSortwcfcto 
+
+
+
+198 
+
+
+
+aScfaaeo. 
+
+
+
+199 
+
+
+
+soOccsbo 
+
+
+
+eort^ 
+
+
+
+srot^e^rlrsocrorl 
+
+
+
+Srfrt ^ 
+
+-2oDoo 
+
+
+
+54^,5*3. 
+
+
+
+^&gt;dbDcSOtoe 
+
+
+
+, Beaton 
+
+^5 
+
+c^e?) 
+
+
+
+200 
+
+
+
+
+
+
+cfa s^iort - e&amp;a 
+
+'* -f 
+
+
+
+cS3rts$ 6 
+
+
+
+201 
+
+
+
+
+
+
+assrto 
+
+
+
+202 
+
+
+
+ofcwctoqi ^ri^o^rf ^^)^ wjrfrocJrttfo^ Ssfrt 
+
+
+
+
+
+
+wiaradrfsoc! 
+
+
+
+zoocrart, 
+
+
+
+oto^bagd. 
+
+
+
+20 
+
+
+
+203 
+
+
+
+eirttfocjS 
+srort^ 
+
+
+
+*ec3sr! 
+
+
+
+204 
+
+
+
+sioorf 
+
+
+
+
+
+
+*tori*SrWc&amp;&gt; 
+
+SD?)OD ^ 
+
+
+
+wrap*", " 
+
+
+
+205 
+
+
+
+wsisfo 
+
+
+
+soocS 
+
+bsj 2^So|sDod TJotif^a 
+
+be&lt;s3 
+
+
+
+?3)sSD?!raScS^ 
+
+
+
+206 
+
+
+
+Sea ^rtrd , 
+
+
+
+Seorf ^oc^^^, ^sd^rri^o *^ rto*cdb5^ arort 
+o 
+Sea, 
+
+
+
+mao.cs&gt; 
+
+^^ v 
+
+
+
+2jg,so|9 sKbcSirt^ ^sirad^ds^n rorsovBdbs^dOod c3*&gt;ci&gt; 
+
+
+
+
+
+
+tort 
+
+n e -J *. 
+
+^3oFc3^ridb33oS. c3^ob 
+
+rfrfrt 
+
+
+
+207 
+
+
+
+4? t3e&amp;Sa3s sbocss 
+
+
+
+rod e^rs^oi) ^ed^dDdo^ esdd: eo&lt;&gt; 
+
+
+
+208 
+
+
+
+ecfc eriS-rfciabaScJ &lt;aoddx edood 
+
+ot_fl o 
+
+esddb 
+
+
+
+. wdood 
+
+
+
+^Qeo^d rodrse^n aesi ^dd^ acj 
+
+". zo&lt;Os 
+
+depart 
+
+
+
+, oy1b, 
+do^rt^o, 
+
+
+
+ftao*4ort5b, adrttf* 
+
+
+
+
+
+
+*) 
+
+
+
+^3^, sriozbcgsaeaaSocW esdb rtortoii aeoan aSosSArirUoaab. ^ 
+
+
+
+sSxi 
+
+^ 
+
+
+
+eocD s&gt;sroro^^?1 e^cS) sSxradb 
+
+
+
+rbcb 
+
+
+
+Efce 
+
+
+
+itfcbd^orort^ 
+
+
+
+etSrt 
+
+
+
+stoosrsd rlisodori^od 
+
+
+
+rfoed 
+
+
+
+211 
+a&amp;assroasart S&lt; 
+
+
+
+esSrodrttf 
+
+
+
+susdb 
+
+
+
+212 
+
+o djsdo&amp;o 
+
+
+
+rfort zS&amp;tf. 
+
+
+
+toode 
+
+ert 
+
+
+
+213 
+
+
+
+stocabsjoi 
+
+
+
+^edb 
+
+
+
+drsdocto e 8D5^^3^o5FD^1 
+
+
+
+. oor1d 
+
+
+
+
+
+
+914 
+
+
+
+eroid zp^rtrf ^oo^crort s&gt;edb 
+
+
+
+^raoo 
+
+
+
+sri^oi 
+
+
+
+otode e?ri 
+
+
+
+. 
+
+3) 
+
+rtda 
+
+
+
+d^dcxten, 
+
+
+
+215 
+
+
+
+216 
+
+
+
+fcifcfefc 
+ooaSd 
+
+
+
+s&gt;rt 
+
+
+
+217 
+
+
+
+stossaa&amp;ci 
+
+
+
+Sea. 
+
+
+
+arorl/s s^rf s&amp;rt 
+
+
+
+d/ad 
+
+
+
+218 
+
+
+
+aocd, saw todex) rorto deddd^dr^o 
+
+
+
+atodtoccftfc. 
+
+^cS) rbdD5&gt;ntf)%5Srtodd 
+
+
+
+*b&lt;xbFdrf 
+
+e^dort 
+
+
+
+.^odb 
+
+
+
+219 
+
+
+
+odo&gt; 
+
+
+
+s&amp;rtrf 
+
+
+
+soorf 
+
+
+
+^odo) tx&gt;7l ^d^cror! e^drfD rf* 
+
+2s) 
+
+
+
+^orfodb 
+
+
+
+220 
+
+
+
+V 
+
+o^D?^ datfoSa tsrt^rf ro 
+
+
+
+zort^ 
+
+
+
+d^dodbo s^ti 
+
+
+
+siood 
+
+
+
+dj^sio 
+
+
+
+221 
+
+
+
+wotooeisS 
+
+
+
+e^onetfart . 
+
+iioBoocS 
+
+
+
+irseaSrtjsocS) 
+
+
+
+^odoi s)drad rfo^d Soo^don^ afc^ofc 
+
+
+
+^sgocb^storfcrort s^do^crfb ss^rlQ 
+
+
+
+222 
+
+eirfotosb. 
+
+
+
+bci ste/W riori 
+
+
+
+Sci ifcorart ScJcScS&lt;) ^4, 
+
+^ M *t; c3 
+
+
+
+c3i 
+
+
+
+. oa^cdb 
+i^ci) sraofcsocisftsaft oiizradri ^d w^rf sirt 
+
+
+
+wouaofc g^E^riaod aax ej ^BJ s&gt;rt 
+
+Z33o3o?1 ^ 
+efcacfeb. 
+
+
+
+BK3au 
+
+
+
+. art 
+
+
+
+
+
+
+223 
+
+
+
+S&gt;rt 
+
+
+
+sdbrt 
+
+
+
+, rfrfrt 
+c3ScS&gt; ^ 
+
+
+
+^orfoo 
+
+
+
+, sbi ic^ 
+
+
+
+224 
+
+
+
+sStibraart &gt;ee&amp;&gt;s3o;f ^orfrt 
+
+
+
+Uo, soSo^ ^dol^oart sfcsb t5 ^daticfe ^^).3^ sJ*oloart 
+
+&lt; =' 
+
+
+
+e ^fc)g^^3^ojb^db ^^^e^cb. s^osj^ ssbrt 
+s'rf sirt -DKojb 
+
+
+
+)^ rleprrf rorfrt 
+
+
+
+e^rtrori 
+
+
+
+sfcsfcrt* 225 
+
+
+
+slrssijjiart 
+
+^d 
+
+cis*3oD 
+
+
+
+otorocJdLrs ^ d^drf ^dSo^cxbad rosfc 
+
+
+
+. eorf 
+
+c^oc) s5e 
+
+^ sl^drt todrfD. rfons 
+
+
+
+doood 
+
+crao 
+
+
+
+226 ^ 
+
+stocioo sooib&amp;c? essScfc c3js&gt;do&gt; 
+
+
+
+S5sdci?). 
+Lra 
+siitfrs ^jsocSO &lt;DOCI 
+
+
+
+rt 
+
+
+
+ess* 
+
+
+
+i^SoSoorf sbrts^od?^ si^ror! ad* 
+rt^rrfde 
+
+
+
+esssrt "snotte*" ^050 - 
+aoo^. ssd&amp;oa^^ &gt; % g^ocbtisi^ 
+
+
+
+
+
+
+227 
+
+
+
+530 
+TJod 
+
+
+
+o)^)oodb 
+
+
+
+. edood Srf. 
+
+Q *&lt; 
+
+
+
+Sccbo^oo 
+
+
+
+228 
+
+
+
+oi ^oed ^? 
+
+
+
+erfsb EJdsiroi|J 
+
+
+
+
+0^ 250fdrf 2ooarort 
+
+
+
+, ^^ iodob s^aidcaoaocJ 
+
+
+
+rtob^rf 
+
+
+
+co 
+
+a , 
+
+
+
+&amp;,c *5323soirdoddD : " 
+s&amp;^sfcofc osSdrt 
+
+^oqi soojioqi 
+
+
+
+229 
+- 13 
+
+
+
+^d^doo 
+
+s^odFt^^d s^dj 
+
+Seacrort ^txs 
+
+
+
+230 
+
+escteJbcSrt 
+
+
+
+. 
+
+
+
+
+
+. ^oqS wfo2&gt;oorf s 
+
+
+
+rt,3o^ 
+
+
+
+rtdrocS 
+
+
+
+ts^Srt* 
+
+
+
+sSozfcSC 
+
+
+
+231 
+
+
+
+Se^&amp;rsocSdb. tffeb 
+
+
+
+h ^c 
+
+
+
+3Ao&amp;db 
+
+&amp;JkvJ 
+
+
+
+odo 
+
+
+
+. ^dd 
+
+
+
+232 
+
+
+
+j sj 
+
+
+
+, 101 
+
+
+
+233 
+
+
+
+, oboist, 
+
+
+
+u. 
+
+tr cJ r-j 
+
+sJbed 
+
+
+
+
+
+
+as 
+
+
+
+934 
+
+
+
+rfj Scirt 
+
+
+
+edd 
+
+
+
+zor^ 
+
+
+
+srarte 
+
+
+
+rfo&lt;?d 
+
+
+
+. cS.sS 
+
+
+
+236 
+
+
+
+Ssb. tor? 
+
+e/ A 
+
+
+
+5rt 
+
+
+
+epeSrl/soci 
+
+
+
+237 
+
+
+
+o30ra3o) rfoidc^sS^cS rfo^d ^e sbsssssoirds oic 
+
+
+
+sSU*rtrt rfed . w^^ edsb 
+
+
+
+
+
+
+238 
+
+
+
+sJdsSE&gt;3|&gt;rf 
+
+
+
+^ 
+
+
+
+. ^erfo 
+
+
+
+239 
+
+dedS 3oDrt&amp; d&amp;dedrf 
+
+
+
+3d,3aSw&amp;ocifc tf,2Jrf 
+
+
+
+Q 
+
+a&amp;u.cS 
+
+
+
+sirb 
+
+iQo 
+rf tfedrfc&amp;ddlfee e^^^doSbodo 
+
+
+
+stow 
+
+
+
+Q Q 
+
+
+
+240 
+
+
+
+rfbed 
+
+
+
+o^rfoDood 
+
+
+
+rtdo^d 
+
+
+
+. . edb dorso 
+
+C3 &lt;&amp; CS 
+
+
+
+do^aeddb 
+
+
+
+241 
+
+
+
+?5&lt;DAcSdb. 
+
+
+
+rttS safirf 
+
+
+
+: "fee 
+
+
+
+aojserloo toddo. esirfoirs 
+
+
+
+^loirt rtotsoo sA)Dcxbod 
+
+
+
+16 
+
+
+
+242 
+
+
+
+orted 
+
+
+
+s^rlod 
+
+
+
+tori 
+
+
+
+tort 
+
+
+
+243 
+
+
+
+zoorf. 
+
+
+
+: "sesto 
+
+
+
+244 
+
+S0&gt;QD 
+
+^odb 
+sio^asbo rtdbciart 
+
+
+
+Oedrl^o so^rt^ 
+. rtjs?gjoi)cb 
+
+
+
+no 
+
+
+
+olrsert 
+
+
+
+esssc^, 
+i^^cJcij. 
+
+5rto*o4&gt; sgsscJ aod 
+
+d e 
+
+cxtefcosra 
+
+
+
+ol^enegd e&gt; 
+
+
+
+245 
+
+
+
+toidcxteh 
+
+
+
+si* ^!ci)d a3Ja? 
+
+
+
+e^orf 
+
+
+
+246 
+
+
+
+- : %3odd 
+
+
+
+
+
+
+aea. 
+
+
+
+^od^od 
+. e^drfD Reorf rf2{ SioSbe . 
+
+
+
+sSbed 
+
+
+
+s&amp;eda 
+
+
+
+247 
+
+
+
+?J|Jzrt 
+
+
+
+248 
+
+iSoDd33Q&gt;0&gt;e.}. 
+
+
+
+. fee $3g 
+
+
+
+*teFoJ 
+
+o^dx &lt;^dddd *&amp;$ 
+a^Tte ototrtetoofc), 
+
+
+
+edd e SJD sSes^o 
+
+
+
+: "riisxz&amp;akort fee 
+
+
+
+2oeAdDSJsri 
+
+
+
+fee 
+
+
+
+SD2^ 
+
+
+
+fee 
+
+
+
+249 
+
+
+
+, 
+
+ej rs 
+
+esclaisaCrt* s^rl^ ?i?srt 
+
+
+
+wc5&lt;?Srfeci)? ^^e 
+
+
+
+oe&amp;ofcex esS 
+
+
+
+sos&gt;ofjrfe 
+
+
+
+edrs^dejrf 
+
+e^dd ^ 
+
+
+
+. 
+. esSd * dDoi^^ode addrissa^ stoobrodcb. 
+
+
+
+250 
+
+
+
+si;2 s:o^3j c52ft/a S5tafc oe&amp;o&amp;db. 
+
+
+
+sxxs Sasate essart 
+
+JSSSC )tasoaA 
+
+
+
+S&lt;c3rf 
+
+
+
+251 
+
+
+
+wodsracftte $rtefc&gt;ioi 
+|sgj footed Seafood ros 
+
+
+
+^d^ ?? . dx&amp;r^rtc&amp;e edS) 
+
+J9 W 
+
+
+
+
+
+
+^od 
+
+
+
+03*1^ ^e^rocS 
+
+
+
+. 5dti 
+
+
+
+dodrt wodcb. 
+
+^oeafcoo SKOfttOTrf *iart&lt;0, ^e 
+
+
+
+rfoed taSrf ^o^d sfcoofcJe 
+
+
+
+;," 1 z; 3ir^. T*?t t?^_c2&gt; c^dssxD, &amp;&amp; SJrfoi) 
+
+Tfr O -S ? (*0 "*"*' 
+
+
+
+^,2pbsJe, 
+
+
+
+
+
+
+
+
+
+sj^rt eoociD 
+
+
+
+. 
+
+- 
+
+
+
+
+
+
+230C3, &gt;02$ 253 
+
+ToOdD e^dd 
+
+
+
+otod 
+
+
+
+^j^end 
+
+
+
+oddo 
+
+
+
+e a&amp;abrtcScii wateSGA^. wdd asaorie^Sow d^ 
+dD^c^ rogScJD x ' 
+
+ro?J535)ndD3g5. ^c^ 
+
+
+
+254 
+
+
+
+ssraoo . , 
+
+
+
+erfodri/sc^ 5.e 
+
+
+
+cxbsicJ 
+
+J. oi&gt;sj?id 
+
+
+
+sort 
+
+
+
+s&amp;ed 
+
+. t?dd c^ 
+
+
+
+255 
+sfcqfcdd ^odo 
+
+
+
+raort toron 
+
+
+
+" cJjadoSbe, * sl^cxt: |,? 
+
+
+
+. rfrfrt ^4 e^e^nd. 
+
+
+
+256 
+
+
+
+^020 
+
+
+
+ZOOCJDS&gt;?) 
+db|5oix) pes^tf 
+
+
+
+cS: cS)*|SoSD 
+
+
+
+oJbdb 
+
+
+
+rioci ^02* 257 
+
+
+
+Sjsoslraoo ^^ rbsSoixD, 
+
+
+
+SSofcoo rts?oi)draoar1 
+
+
+
+. fee ^fb *^rtabort A-atirt? 
+aurtofcocb 
+
+*. e 
+
+
+
+r^oten e 
+worort ed?i rortjs fee 
+
+
+
+, arfe* sar^ s^rts? 
+
+
+
+258 
+
+
+
+16, 
+
+eodd 
+
+
+
+
+
+
+^orl^ rfrfrt a^arf. 
+o 
+edd s&amp;ed 
+
+
+
+oteto 
+
+
+
+259 
+
+
+
+. e 
+
+
+
+16,000 
+
+
+
+
+
+
+,&lt;8j,e3o&gt; 
+
+
+
+rfrtddde 
+
+
+
+to a 
+
+
+
+ertfi 
+
+jdd 
+rfrfrt 
+
+
+
+260 
+
+
+
+^00233 
+
+
+
+erosS 
+
+
+
+. ?5dDod ^drf?^ 
+
+
+
+so 
+s)rtoradpod wsScSSj* Sj&amp;oosSoiS^^oeoDdD rfrfrt 
+
+
+
+esici ^dDrtcf sfe)^ esdd 
+
+
+
+. * 
+
+
+
+xtoown 
+
+
+
+26! 
+
+
+
+3o&lt;Dpo ^ocl^sS^c^rt-cSjsrfoJrohdb esjsfc afs 
+. "oJ?^ $rtste&amp;5e, rosb ^sg^ cksdcfc s 
+
+
+
+a32,ao|S)Srt crarfrf^icto. ^^cl^ tsst, 
+
+
+
+fee 
+
+
+
+262 
+
+
+
+^ 
+
+octet) *Jc3(&amp;Qfcs$?5e, aesb aob*&gt;oraft 
+
+
+
+2Jtfro)rtaf3artt3c*ocb 
+
+
+
+16,108 
+
+s3er\tibTOc5 
+
+
+
+rt^rt S 
+
+
+
+t#teto*fc rjafij 
+
+
+
+rarfo&amp;db, ^rt^ ^erf 
+3JdsSraS|J 
+
+
+
+26? 
+
+
+
+soodi 
+20,000 
+
+
+
+3 en 
+
+
+
+cxteri 
+
+
+
+10 ' 000 
+
+
+
+e . 
+
+
+
+254 
+rod&amp; 
+
+
+
+otorfri^ 
+
+
+
+sodstoairaocib 
+
+
+
+S^ %o) dodobe, 
+
+
+
+slrscSoo 
+
+
+
+wsSart 
+
+
+
+eo^rt 
+
+
+
+533**?*,* 
+sfcxeisiocb a a 
+
+
+
+as.A-8 -c-- 
+'" 
+
+
+
+, ^ag^j s^ sSdoio?^ 8pcsSs*ejsi 
+
+
+
+fee 
+
+
+
+ssart^s &lt;^^dci) &amp;?&gt; 
+
+
+
+ok)s3 
+
+edrl^rf 
+
+
+
+sort^ 
+
+
+
+266 
+
+
+
+C-5 0*5 
+
+
+
+srart/s 
+
+
+
+&gt; 
+
+
+
+tooras^ 
+
+
+
+^dort 
+
+
+
+267 
+
+
+
+sio^rt^o 
+
+
+
+268 
+
+
+
+, dedri Kto^rtert w^ofcroft 
+
+e^dpod ^c^ sood 
+
+3odQ&amp; 
+
+
+
+
+
+
+oJ 
+
+s^orirod 
+
+
+
+rtorra 
+
+
+
+spedD?5erfd s&gt;^ ^ ^dol? ^o^d Ssdbtisd rfc* 
+
+
+
+daood 
+
+
+
+269 
+
+
+
+rfoed 
+
+
+
+rtocici 
+
+
+
+^drsodb 
+
+
+
+aicjprtcS rfbed 
+^orlra 
+
+
+
+rfrfrt 
+
+
+
+270 
+
+
+
+Serf? erf fe 
+
+rfeecteb "o^o5e, Scsfa ofcJran * cfceSSd 
+
+
+
+rlo^rf 
+
+
+
+assart 
+
+
+
+sSoaWda 
+
+
+
+eoorfdo. 
+
+
+
+271 
+
+
+
+s)S 
+
+
+
+ss, sio^ort, sriroori,' 
+
+s 
+
+so^rl 
+
+
+
+srooo 
+
+
+
+des^rteb 
+
+,. io?Jci) 
+
+
+
+iraocSfc. 
+rtjs3b.. rf?^ sracOo 
+
+553ob 
+rooLDofceii itoc&amp;^cScSoJbe * w 
+
+
+
+3oertoci&gt; 
+
+eF 
+
+
+
+273 
+
+
+
+storlrs^n 
+
+
+
+, 
+
+^b ^s^c^ 
+? 
+
+
+
+drsdcrfo 
+
+
+
+18 
+
+
+
+
+erootso 
+^oD,cxb 
+
+
+
+Wrt 
+
+
+
+eodtf ssJdsSjaag to^rt 
+rostoSSoi Sdrt, 
+
+
+
+effort 
+
+
+
+erocSezJ 
+
+
+
+sipi 
+
+
+
+. werf 
+
+
+
+fee 
+
+
+
+erirf esfca* 
+
+
+
+*tos3jfc$3. %^ octf tfrtro^ ^ &amp;&amp;. wss eRc*:3 s^. 
+- -?, ai4, ^J?srf, ^"odoiir ssrlfs ss/iaocssA scS? tssijV 
+
+
+
+*p**&gt; 
+
+
+
+
+""^rlHrHSS 
+
+5Ss^Sss??~ 
+
+
+
+276 
+
+
+
+so2o 
+
+
+
+, sto^c* 
+
+
+
+rbocxto 
+
+
+
+, TOSS) S3b^D 35 
+
+
+
+*,rt&gt;s$ao,. 
+
+a5j33sftfc 
+
+
+
+stood 
+
+
+
+esS x^rt-t z^^r-r,^* 
+js ^^ww^^vrt-tzs 
+sSerf?3 iffi^T^. esc 
+
+
+
+
+StfcsartcJe 
+
+
+
+278 
+
+
+
+d sto* 
+
+
+
+
+
+
+279 
+gafcd 
+
+
+
+waaS|as&gt;rt 
+
+
+
+s&gt;*jcSD 
+
+
+
+rt,aorttf&lt;s3&lt;^ 
+
+
+
+. tyz AssafcarScb siD*jssfc 
+
+" 
+
+
+
+s3&gt;Se&gt;?too 
+
+
+
+280 
+
+dcfearteb. $d3 stoateofc 
+
+
+
+erooUo. 
+
+
+
+rtorbo: ^do^b s 
+
+
+
+
+
+
+ssaa^ ateofe, 
+
+
+
+t5 
+
+
+
+sfced 
+
+
+
+
+
+
+ed^drtwn 
+
+
+
+281 
+
+
+
+ogctert 
+
+
+
+s^doterte 
+
+
+
+. rlortceb 
+a3 
+
+
+
+dD. #rts . 
+
+rf3ogfSw'3oart -^cd^rto 
+o*dc$ o^ort sea 
+
+
+
+sixrso^ ^tdb c^^or^ a^rte* 
+
+
+
+
+
+
+Kb aS^oddc cJ^^d oidbdoisicje 
+
+
+
+283 
+
+
+
+Jc^vlwi^jujrJj 1 C^TJ 
+
+"- 
+
+
+
+Sgfecd esrt^: s^^ioi SrtgCSocS 
+
+
+
+roasb &amp;,5 
+
+sSert 
+
+
+
+?Sd^oddo. edcto 
+Se^dcb. "^ 
+ort* 
+
+
+
+oSSrtOTdpod ed^rl sGb 
+
+
+
+aSeifce 
+
+rs 
+
+
+
+284 
+
+
+
+^o^cb. e^ob 
+
+otod^d 
+
+
+
+&lt;: t^cs:, ssccs 3^ ctosSdfi 
+
+
+
+
+
+
+^ wn -^ 
+
+
+
+285 
+
+
+
+(2) 
+
+
+
+(3) ^asSg^cS e^)3o 6 ^6 ote^do (4) 
+
+(5) y^s 6 ^ ^^srocj rtodbab otos^do (6) 
+
+
+
+.(7) 
+
+^^ 
+
+
+
+rbo 
+(9) 
+
+,, 
+
+
+
+Serf. 
+
+
+
+psAd), e^d?jo dedDod 
+
+
+
+286 
+
+
+
+^4^ #| s^Fsi&amp;?3o crofts sc&amp;)3jj wr^ TOSg^tfsfi dL'sd^ 
+^i o?d^3un cfcs^otec! ^SJs'^, sjds^ e?ra 5 ^ rooaol)^ 
+
+,r _.^__,_ 
+
+/-ji-u^'-jL.cst.'r- . 
+
+
+
+eodd 
+
+
+
+z?Soci) eocftS 
+
+
+
+sort 
+
+
+
+. ^rtrfoalS 
+
+--Q^2." 
+
+
+
+287 
+
+
+
+stia! oqisra 
+
+
+
+s S^s^As S..23:nv 
+? ss?irt - Sar 
+. ^cfiood z^dosps, D 
+t-ociood tt 
+
+
+
+srt tpe^ 
+
+
+
+288 
+
+
+
+estort 
+
+rt3dbjrf 
+
+
+
+toos^d 
+
+
+
+fc 
+. erfrfoSofce s&amp;S, s&amp;^o, woqfcrteb 
+
+
+
+dbdo a^rirtwA oodd 
+stood 
+
+
+
+. ti&amp;W a?swJrt*, 
+
+
+
+19- 
+
+
+
+rb^g". 
+
+
+
+" &lt;dOtt TjoqfcM). 
+
+
+
+289 
+
+
+
+290 
+
+
+
+srorU 
+
+
+
+ab&amp;cxto 
+
+
+
+. rfd 
+A e3s&amp;&amp; toc 
+3$ac3rtjM?7bdo3 
+
+
+
+tootawabArart, 
+
+
+
+
+
+
+woixJ a&amp;qJ 4 Ood 
+
+
+
+&gt;s3o&amp;ddx 
+
+
+
+291 
+
+
+
+SEbFrttf 
+o75 
+
+
+
+tfsst toeo, 
+
+HS) j^T 
+
+
+
+- stortr 
+
+rodd SD&gt;QQ d?t)c3edc)?1 a*i^djsdcxb 
+"Scad 
+
+
+
+dxbdedsrf 
+
+
+
+292 
+
+
+
+stebrteb, ^aoS&gt;tiD so^rtjs ^Stfdtoofcrt .y,aS|JesS?to 
+). stosisS 
+
+
+
+. 
+
+Q (. 
+
+
+
+abdb 
+
+
+
+o&gt;c&gt;r!^o slodcioo &amp;dpft ess^ sSjsarrortde SsS^dqJd 
+
+
+
+gp 
+
+
+
+Wei 
+
+
+
+CD 
+
+rt&amp;&gt;* 
+
+
+
+293 
+
+
+
+fctfeJofc 
+
+
+
+. oor(d 
+
+2J P 1 ^ 
+
+
+
+wootoco 
+
+
+
+oJjser! 
+
+TO 
+
+i*rttf ei^ sricSdoqi 
+
+
+
+dxrse;^ 
+
+
+
+294 
+
+
+
+33J5S s oL^oSd ?fc^prtoci afcdp^ afcsfctoEKS . ^cirsort* , 
+
+
+
+S7lf 3ldG&amp;} ^ccbo wqSsss 
+uuS3}Fd3 eigs 6 " *Soej ^Eosi^ " 
+
+
+
+sScrfrfd , 
+
+
+
+- a s3c t?5 wasassjs* "- . 73 
+
+
+
+74) 
+
+a^ ^s 
+
+wrti^cS. 3* . atoss^drfsfc 
+
+
+
+ofccto 
+
+
+
+. v sirt 
+
+troaron 
+
+
+
+*c^3q^^ 
+
+
+
+295 
+
+
+
+
+
+
+sqjrfrtetajj 
+
+
+
+erooto 
+sgprairirt 
+
+aSJad^b 
+
+
+
+cxtod 
+
+
+
+296 
+
+
+
+^erl ? 
+
+,pfcrt^ a^tf^isS ? 
+LrocbSsS? c?rfe " 
+
+
+
+aSert sirf^ fcgSofcw 
+
+
+
+^ 
+
+
+
+297 
+
+
+
+dDd?poc3d&lt;&gt; rtorisb; StoSrf. ^orS&gt;, s&amp;dd 
+
+c*** -s 7 
+
+
+
+, 
+
+sfeetf, ds 
+
+
+
+. wdtf -zSocddde erfcxfcsSrt* 
+
+
+
+dds&amp;w!|b 
+
+
+
+urtrt 
+
+
+
+298 
+
+
+
+
+
+
+cxtoaag^rt^ 
+
+
+
+300 
+
+
+
+^rt ^0200^^ 
+ero^ 
+
+ede 
+
+
+
+, e^rt 
+
+
+
+^ e^dd dbed So^odpod woo&amp;s^do. 
+^dood 
+
+
+
+: "?5e)ci 
+
+
+
+sort 23W5$i t3wu soo^dod ^ssbs^. o^rfD ol^er! 
+
+rv *&gt; c-i ' ra 
+
+
+
+rtDoo. 
+
+
+
+30 i 
+
+&lt;DoeoD&amp;dc&gt;e?". 
+
+
+
+rfdrteb, 
+
+
+
+302 
+
+
+
+to 
+
+(ft *^i* ^fJrtsSoaJart ^otoo^sj). ft 
+
+
+
+, as, 
+
+
+
+
+303 
+
+
+
+. esfin^ 
+
+
+
+&lt;35&gt;rU&gt; 
+
+
+
+; Lo. 
+
+
+
+. aS33SAlFrt5?O5SDoi&gt; 
+
+
+
+^ 
+. ftesttd 
+
+
+
+O ^&gt;^ roo, &lt; , 
+
+
+
+304 
+
+
+
+siofc. olfcenrW sS&gt;qS d 
+
+steab. asf as&amp;rto 
+
+
+
+sioorf soe^dct): "cxtortrt^ TOrfD ^extort 
+
+
+
+. sfcrfrftfC OTci Reo5&gt;rf 
+
+
+
+, S5a*)d.csj. rlo^^rd: 
+
+
+
+esid fi^rt^^Vb^S. ejtoto, 
+
+
+
+s^rt, 
+
+
+
+jsg, ste, *jcxb 
+
+
+
+sbi 
+
+
+
+rt 
+
+
+
+t? 
+
+
+
+rorto 
+
+
+
+20 
+
+
+
+306 
+
+
+
+cdbodrf 
+
+
+
+'a&gt;5&amp;' 
+
+
+
+., S^OtF, 
+
+socxbr 
+
+
+
+otodb, 
+
+
+
+?3es5 3 
+
+
+
+asarto r^a&amp;So&amp;Bcfc otosjcfc, otocb &amp;?sfce3c:, c 
+, o&amp;jcjb &amp;2tecb, o&amp;adD ^^o5d)? 5J tfocSsScfc * r 
+osirWrt S^tibcjpad ^o^r*^ zorta&amp;&amp; 
+
+
+
+sort 
+
+
+
+sirorlrfodd sJ^rtrt 
+
+
+
+, , 
+
+5 dc s:os:rJ, 
+
+, 
+
+
+
+?Seos3. t^rtsSosSoS torthtf z^Art st^r 
+
+oa 
+
+
+
+*a^u-w* 
+
+
+
+308 
+
+rbrib. rbds^odd 
+
+
+
+tfrtisiort; 
+wsicJ 
+
+
+
+alQodd, idbni^ eotSl^oadd qd eozjSsiort 
+
+
+
+). ^ 
+
+
+
+tf&amp;^rrtrt 
+
+
+
+' 
+
+t 
+
+
+
+. (^ert 
+
+
+
+, oirsert 
+
+
+
+. oirad 
+
+
+
+309 
+
+
+
+ode oe3qSrancSjlr&amp;, 
+
+
+
+odo sS?b(DcJ sbdJ 
+^c&amp;rt^o, 
+
+
+
+,,, 
+
+
+
+j 
+
+eJ 
+
+esSd 
+
+
+
+tori 
+
+o^j 
+
+^rf 33o&gt;odde 
+
+
+
+, 
+
+cootosrl^sb Sso&amp;fcasb.sSsidb s^ 
+
+
+
+
+
+tort 
+
+n 
+
+
+
+sScrfrt^to, 
+
+
+
+'0rad cL^sJ^e 
+
+
+
+Q 
+
+j 
+
+V 
+
+
+
+tfod do* 311 
+
+
+
+cdbo 
+daitf oadcte rt3b 
+
+
+
+. 
+
+V 
+
+rtrarte* Ss 
+
+
+
+teS sSrfaS33 
+
+
+
+, alaoSygpbi's^sSrtsiFd 
+
+2bcS&gt;3S^ci&gt; 
+
+
+
+312 
+
+
+
+ssa 
+
+s5es3E3c;sbrteb 
+
+
+
+-0 _0 
+
+., 
+
+
+
+sSJaoadbsS 
+
+. &lt;0&gt;cb 
+
+
+
+, 
+
+XT 
+
+
+
+313 
+
+
+
+Ood . 
+
+
+
+sdrf^ t^ddb. e?dd esSci) ^5^b So^d drarlreiod drscJ 
+^So|9f3od?i) : "Sc^-^ ^Deds^ cic 
+aig deddori^o, rt,3ortb, ^&gt;o&gt;r , 
+
+
+
+. otedb croSOc|j?c5 ecStf 
+
+
+
+314 
+
+
+
+a tr 
+
+
+
+sort ? rtaort* stoedd dbed 
+
+
+
+otosS oe^cxb 
+
+
+
+sfccd. Se 
+
+
+
+; d^xi^od ^dcdbdrt^b 
+deddbrt^o sc^rte db?^ sob^ds^ (socSj^od^ dedd3?1^odd 
+, 7ijso)r, dcbrs&gt;, 
+eiod,.) SfjjO 
+
+
+
+tood. 
+odsd. 
+. e^rs^ocxto dis^dd 
+
+
+
+315 
+
+
+
+Q 
+
+rortorl 
+
+
+
+tsrt*art so&amp;stf sadrasracj ssi*Aato, 
+
+D ^^ sj 
+
+s^dbssi. 
+
+
+
+rf^cxtoicS. wrsS ns^r! *edbid. FQ^OJOD 
+
+
+
+
+
+
+. cxtode 
+
+
+
+316 
+
+
+
+ezjtos 
+
+
+
+rfc^d essS?i) 0^ 
+
+
+
+s&amp;ed 
+
+
+
+a&gt;dd 
+
+
+
+&amp;B, 
+
+
+
+317 
+
+
+
+, esicctos^rl^b, 
+
+
+
+318 
+
+
+
+sSert 
+
+
+
+x&gt;odd 
+
+
+
+319 
+
+
+
+sioateofc 
+
+
+
+dbj^eofc 
+
+
+
+^orfolraoart- 
+
+
+
+siooc^ddo. 
+
+d^essi 
+
+
+
+eoorosl)ci 
+
+
+
+so^DsSodo 
+
+703020^ 
+
+
+
+snjdd sSoed icJo&amp;otso, 
+cxb dcS, 
+
+
+
+320 . 
+
+
+
+s&amp;ed ? 
+
+
+
+raoDorttf Sj 
+
+
+
+Rci) raoicror\dt3cS)". ^er! 
+
+
+
+. t^rido^rf 
+dcoo^dddb 
+
+c dxod 
+
+
+
+af^cJe 
+
+j^tWOcx e^dd 
+. sb^tsscdbrdb 
+
+
+
+32! 
+Cj3rt&gt;o^3o Srfe e^d 
+
+
+
+Lsidcb. 
+
+
+
+, oidorttf 
+
+roe^Drl 
+
+
+
+drfr^osnrf. 
+
+
+
+sSJ^ofcrdb e^oct) ci*7&gt;d 
+
+
+
+530 w^bsicS 
+TOO 
+
+
+
+
+
+
+5$. 
+
+
+
+323 
+
+
+
+sodo 
+
+
+
+o sscdbril^o sS^D^. e^rl^S:. 2io!)o^ujrfoc} 
+
+' 
+
+o^ad^ ?5je&gt; 
+
+c 
+
+s^o!;oojo Wc 
+
+
+
+sort 
+
+A 
+
+
+
+Seed, 
+
+
+
+324 
+
+
+
+si^d 
+
+
+
+ro Q 
+
+d eooddb 
+
+
+
+. Lo 
+
+
+
+slxradb 
+asart/a 
+
+
+
+brtrfS33s^dbsS 
+
+
+
+Btei 
+
+
+
+325 
+
+
+
+. 3* 
+
+
+
+
+
+
+1993d 
+
+
+
+oe^ 
+
+
+
+
+
+
+fyxfith 
+
+
+
+1) it; tiinwBStf - ISKCON 
+
+V 
+
+
+
+Jj 
+
+
+
+3) &amp;f ft &amp;&amp; : 1) 
+
+/ J J) ' 
+
+2) 
+
+4) d sSooi Study of. the Brahma Sutra 
+
+and their five commentaries- 
+PARIS- V,S, Ghate, 
+
+
+
+5) 8 taste* ^ ^S^ - S. Radhakrishnan, 
+
+' wrt rj T 
+
+6) Brighter than Thousand Suns - Robert Jungan, 
+
+
+
+THE TIMES OF INDIA. BANGALORE 
+
+
+
+3 / 
+
+
+
+'Ganga, Yamuna 
+met in Delhi' 
+
+
+
+By 
+He of News Service 
+
+ALIGARH: 
+
+Scientists at the Remote Sens- 
+ing and Gee-engineering' Centre 
+here claim that the original con- 
+fluence of the Ganga and the 
+Yamuna was in Delhi, and the 
+"Sangam" at Allahabad is, in 
+geological., terms, a "recent phe- 
+nomenon". 
+
+With the help of computer- 
+aided visuals and digital data col- 
+lected through satellites, resear- 
+chers have been able to trace the 
+course of the Ganga during the 
+Pleistocene period. According to 
+Dr Iqbaluddin, director of the 
+flintfe, the changes in the course 
+of the Ganga took place around 
+10,000 B.C. The oeotectonics in 
+the 8 region led to the changes in 
+the river's course. 
+
+Researchers have also suc- 
+ceeded in simulating colour 
+photographs of the Earth's sur- 
+face as it must have existed 
+thousands of years ago. 
+
+Scientists are using remote 
+sensing for weather forecasting 
+and land use, wasteland and 
+ground water studies. Remote 
+sensing is used for gathering in- 
+formation, about objects on the 
+Earth's surface with the help of 
+sensors and radiometers 
+mounted on satellites. 
+
+
+
+Though it is still in its infancy, 
+remote sensing has helped re- 
+searchers to suggest an "alter- 
+nate waterways system" to solve 
+Delhi's chronic water shortage 
+problem and drastically reduce 
+the pollution level of the water 
+supplied to the metropolis. 
+
+Dr Iqbaluddin told The Times 
+of India News Service that they 
+would be submitting a proposal 
+to the Centre on resurrecting 
+portions of the original channel 
+of the Ganga to help. in/storing 
+flood water discharged from the 
+river. 
+
+Dr Iqbaluddin pointed out 
+that at present Ganga water is 
+supplied to Delhi through a di- 
+version stream from the Upper 
+Ganga Canal, via a balancing re- 
+servoir on the Hindon river, near 
+Ghaziabad. In fact, the Hindon 
+itself has been described as a 
+"misfit stream" flowing through 
+an ancient flood plain of the 
+Ganga. But this reservoir has a 
+limited storage capacity. ^ 
+
+According to this proposal by 
+linking the original palaeo drain- 
+age' of the Ganga between the 
+Hindon and the Ganga barrage, 
+west 'of Bijnor town, the entire 
+40-km stretch of the Hindon 
+would become available for stor- 
+ing the surplus flood water of the 
+Ganga. 
+
+
+
+</pre>        </div><!--/.container-->
+              </main>
+    </div><!--/#wrap-->
+    
+    <!-- Timing ...
+     rendered on: www20.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:380:log
+  0.0083   0.0083      redis_read start   var/cache/petabox/petabox/www/sf/download.php:80:main_wrap
+                                             |download.php:101:main
+                                             |download.php:321:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:500:_get_obj
+                                             |Metadata.inc:530:run_pipeline
+                                             |Metadata.inc:1381:read
+                                             |Metadata/AdapterPipeline.inc:256:_read
+                                             |AdapterPipeline.inc:292:pipeline
+                                             |AdapterPipeline.inc:377:fetch
+                                             |AdapterPipeline.inc:639:fetch
+                                             |RecordServer.inc:148:execute
+                                             |RecordServer/FetchRecordOp.inc:57:log
+  0.0101   0.0017     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:80:main_wrap
+                                             |download.php:101:main
+                                             |download.php:321:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:500:_get_obj
+                                             |Metadata.inc:530:run_pipeline
+                                             |Metadata.inc:1381:read
+                                             |Metadata/AdapterPipeline.inc:256:_read
+                                             |AdapterPipeline.inc:292:pipeline
+                                             |AdapterPipeline.inc:377:fetch
+                                             |AdapterPipeline.inc:639:fetch
+                                             |RecordServer.inc:148:execute
+                                             |RecordServer/FetchRecordOp.inc:63:log
+  0.0215   0.0114   begin session_start   var/cache/petabox/petabox/www/sf/download.php:80:main_wrap
+                                             |download.php:101:main
+                                             |download.php:545:stream
+                                             |download.php:915:head
+                                             |common/Nav.inc:173:__construct
+                                             |Nav.inc:264:session_start
+                                             |Cookies.inc:56:log
+  0.0218   0.0003    done session_start   var/cache/petabox/petabox/www/sf/download.php:80:main_wrap
+                                             |download.php:101:main
+                                             |download.php:545:stream
+                                             |download.php:915:head
+                                             |common/Nav.inc:173:__construct
+                                             |Nav.inc:264:session_start
+                                             |Cookies.inc:66:log
+  0.0779   0.0561              bug dump   var/cache/petabox/petabox/www/sf/download.php:80:main_wrap
+                                             |download.php:101:main
+                                             |download.php:545:stream
+                                             |download.php:945:footer
+                                             |common/setup.php:149:footer
+                                             |Nav.inc:1120:dump
+                                             |Bug.inc:102:log
+    -->
+    <script>
+if (archive_analytics) {
+  archive_analytics.send_pageview_on_load(archive_analytics);
+  archive_analytics.process_url_events(location);
+  var vs = archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=77;
+    vs[i]['server_name']="www20.us.archive.org";
+      }
+
+  if (document.querySelectorAll('.more_search').length) {
+    archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+          <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=699291324" alt="" />
+          <noscript>
+        <img src="//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=360980847" />
+      </noscript>
+          <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          if (archive_analytics)
+            archive_analytics.create_tracking_image('in_page_executes');
+        });
+      </script>
+      </div>
+  </body>
+</html>
+    
