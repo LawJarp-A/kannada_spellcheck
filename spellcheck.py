@@ -1,4 +1,3 @@
-# Define Spellclean_textker  Peter Novigs
 class SpellChecker:
     
     def __init__(self, freq_word, letters):
